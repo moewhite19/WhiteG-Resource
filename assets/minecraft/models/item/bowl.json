@@ -1947,134 +1947,115 @@
 				"custom_model_data": 540
 			},
 			"model": "dove:block/food/restaurant_bar"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 541
 			},
 			"model": "dove:block/food/restaurant_bar_table"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 542
 			},
 			"model": "dove:block/food/restaurant_bed"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 543
 			},
 			"model": "dove:block/food/restaurant_carpet"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 544
 			},
 			"model": "dove:block/food/restaurant_chair_one"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 545
 			},
 			"model": "dove:block/food/restaurant_chair_two"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 546
 			},
 			"model": "dove:block/food/restaurant_drink"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 547
 			},
 			"model": "dove:block/food/restaurant_food_bigmeat"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 548
 			},
 			"model": "dove:block/food/restaurant_food_eggbeacon"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 549
 			},
 			"model": "dove:block/food/restaurant_food_halffish"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 550
 			},
 			"model": "dove:block/food/restaurant_food_squidsashimi"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 551
 			},
 			"model": "dove:block/food/restaurant_food_steak"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 552
 			},
 			"model": "dove:block/food/restaurant_grill_meat"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 553
 			},
 			"model": "dove:block/food/restaurant_sign"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 554
 			},
 			"model": "dove:block/food/restaurant_sign_flag"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 555
 			},
 			"model": "dove:block/food/restaurant_sign_top"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 556
 			},
 			"model": "dove:block/food/restaurant_table"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 557
 			},
 			"model": "dove:block/food/restaurant_table_big"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 558
 			},
 			"model": "dove:block/food/restaurant_table_cart"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 559
@@ -2086,99 +2067,85 @@
 				"custom_model_data": 560
 			},
 			"model": "dove:block/yxjt/arcade_sign"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 561
 			},
 			"model": "dove:block/yxjt/big_pile_tokens"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 562
 			},
 			"model": "dove:block/yxjt/blue_arcade_chair"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 563
 			},
 			"model": "dove:block/yxjt/blue_arcade_machine"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 564
 			},
 			"model": "dove:block/yxjt/claw_machine"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 565
 			},
 			"model": "dove:block/yxjt/coin_pusher"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 566
 			},
 			"model": "dove:block/yxjt/dance_machine"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 567
 			},
 			"model": "dove:block/yxjt/dartboard"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 568
 			},
 			"model": "dove:block/yxjt/darts"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 569
 			},
 			"model": "dove:block/yxjt/hockey_table"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 570
 			},
 			"model": "dove:block/yxjt/motorcycle_racing_arcade"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 571
 			},
 			"model": "dove:block/yxjt/red_arcade_chair"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 572
 			},
 			"model": "dove:block/yxjt/skee_ball"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 573
 			},
 			"model": "dove:block/yxjt/small_pile_tokens"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 574
@@ -2190,43 +2157,37 @@
 				"custom_model_data": 575
 			},
 			"model": "dove:block/mrwj/blob_fish_plush"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 576
 			},
 			"model": "dove:block/mrwj/creeper_plush"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 577
 			},
 			"model": "dove:block/mrwj/panda_plush"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 578
 			},
 			"model": "dove:block/mrwj/pig_plush"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 579
 			},
 			"model": "dove:block/mrwj/sniffer_plush"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 580
 			},
 			"model": "dove:block/mrwj/warden_plush"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 581
@@ -2236,6 +2197,78 @@
 		{
 			"predicate": {
 				"custom_model_data": 582
+			},
+			"model": "dove:block/slm/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 583
+			},
+			"model": "dove:block/slm/head2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 584
+			},
+			"model": "dove:block/slm/head3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 585
+			},
+			"model": "dove:block/slm/head4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 586
+			},
+			"model": "dove:block/slm/head5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 587
+			},
+			"model": "dove:block/dark/chushiya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 588
+			},
+			"model": "dove:block/dark/qianshuiya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 589
+			},
+			"model": "dove:block/dark/rduck_3dglasses"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 590
+			},
+			"model": "dove:block/dark/rduck_boater"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 591
+			},
+			"model": "dove:block/dark/rduck_chef"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 592
+			},
+			"model": "dove:block/dark/rduck_cowboyhat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 593
+			},
+			"model": "dove:block/dark/rduck_original"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 594
 			},
 			"model": "rpgarmour:item/error"
 		}
