@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_pickaxe"
+  },
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "morefunnyitems:item/nebula_pickaxe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "morefunnyitems:item/starcat_pickaxe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "morefunnyitems:item/galaxy_pickaxe"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 6
+			},
+			"model": "morefunnyitems:item/thunder_pickaxe"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 7
+			},
+			"model": "morefunnyitems:item/holy_pickaxe"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 8
+			},
+			"model": "morefunnyitems:item/dark_pickaxe"
+		},
+    	{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "rpgarmour:item/error"
+		}
+  ]
+}

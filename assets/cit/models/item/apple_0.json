@@ -1,0 +1,80 @@
+{
+	"credit": "Made with Blockbench Model By MoeWhite",
+	"parent": "cit:cit_item",
+	"textures": {
+		"0": "cit:item/apple_0"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 5],
+			"to": [10, 6, 10],
+			"faces": {
+				"north": {"uv": [1, 7, 6, 13], "texture": "#0"},
+				"east": {"uv": [1, 7, 6, 13], "texture": "#0"},
+				"south": {"uv": [1, 7, 6, 13], "texture": "#0"},
+				"west": {"uv": [1, 7, 6, 13], "texture": "#0"},
+				"up": {"uv": [1, 1, 6, 6], "texture": "#0"},
+				"down": {"uv": [8, 1, 13, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 1, 4],
+			"to": [10, 5, 11],
+			"faces": {
+				"north": {"uv": [1, 8, 6, 12], "texture": "#0"},
+				"east": {"uv": [0, 8, 7, 12], "texture": "#0"},
+				"south": {"uv": [1, 8, 6, 12], "texture": "#0"},
+				"west": {"uv": [0, 8, 7, 12], "texture": "#0"},
+				"up": {"uv": [1, 0, 6, 7], "texture": "#0"},
+				"down": {"uv": [8, 0, 13, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 1, 5],
+			"to": [11, 5, 10],
+			"faces": {
+				"north": {"uv": [0, 8, 7, 12], "texture": "#0"},
+				"east": {"uv": [1, 8, 6, 12], "texture": "#0"},
+				"south": {"uv": [0, 8, 7, 12], "texture": "#0"},
+				"west": {"uv": [1, 8, 6, 12], "texture": "#0"},
+				"up": {"uv": [0, 1, 7, 6], "texture": "#0"},
+				"down": {"uv": [7, 1, 14, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 6, 7],
+			"to": [8, 7, 8],
+			"faces": {
+				"north": {"uv": [15, 1, 16, 2], "texture": "#0"},
+				"east": {"uv": [15, 1, 16, 2], "texture": "#0"},
+				"south": {"uv": [15, 1, 16, 2], "texture": "#0"},
+				"west": {"uv": [15, 1, 16, 2], "texture": "#0"},
+				"up": {"uv": [15, 0, 16, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, 6.5, 5],
+			"to": [10, 6.51, 7],
+			"faces": {
+				"up": {"uv": [14, 14, 16, 16], "texture": "#0"},
+				"down": {"uv": [14, 14, 16, 16], "rotation": 90, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-14, 90, 31],
+			"translation": [0, 3.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 5, 0]
+		},
+		"head": {
+			"translation": [0, 14, 0]
+		}
+	}
+}

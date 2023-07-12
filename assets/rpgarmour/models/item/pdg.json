@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench Model By MoeWhite",
+	"parent": "rpgarmour:block/pdg",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [16.75, 0, -46],
+			"translation": [4.75, 6.5, -7]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [16.75, 0, -46],
+			"translation": [4.75, 6.5, -7]
+		},
+		"firstperson_righthand": {
+			"rotation": [16, -15, 0],
+			"translation": [2.75, 7.25, -3.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [16, -15, 0],
+			"translation": [2.75, 7.25, -3.5]
+		},
+		"ground": {
+			"translation": [0, 3, 0]
+		},
+		"head": {
+			"translation": [0, 18.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	}
+}

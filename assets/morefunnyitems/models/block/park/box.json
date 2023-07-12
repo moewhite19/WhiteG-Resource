@@ -1,0 +1,62 @@
+{
+	"credit": "Made by Yassou, discord: Yassou#0001 mail : miss.yas.mc@gmail.com",
+	"texture_size": [64, 64],
+	"textures": {
+		"3": "morefunnyitems:block/park/box"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2.6, -4, 22]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#3"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#3"},
+				"south": {"uv": [4, 0, 8, 4], "texture": "#3"},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#3"},
+				"up": {"uv": [4, 12, 0, 8], "texture": "#3"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#3"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, -160, 0],
+			"translation": [0, 0.75, 0.25],
+			"scale": [0.35586, 0.35586, 0.35586]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, -160, 0],
+			"translation": [0, 0.75, 0.25],
+			"scale": [0.35586, 0.35586, 0.35586]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -73, 6],
+			"translation": [3.25, 0.5, 0],
+			"scale": [0.19492, 0.19492, 0.19492]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -73, 6],
+			"translation": [3.25, 0.5, 0],
+			"scale": [0.19492, 0.19492, 0.19492]
+		},
+		"ground": {
+			"translation": [0, 1.5, 0],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"gui": {
+			"rotation": [30, -40, 0],
+			"translation": [0.5, -0.25, 0],
+			"scale": [0.52227, 0.52227, 0.52227]
+		},
+		"head": {
+			"translation": [0, -30.4, 0],
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, -180, 0],
+			"translation": [0, 0, -15],
+			"scale": [2, 2, 2]
+		}
+	}
+}

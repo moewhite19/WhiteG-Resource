@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "rpgarmour:item/seekerbow_pulling_1"
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "morefunnyitems:block/phonograph_static",
+	"textures": {
+		"2": "morefunnyitems:item/cd_item_playing"
+	}
+}

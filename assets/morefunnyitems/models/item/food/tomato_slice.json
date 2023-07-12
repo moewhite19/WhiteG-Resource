@@ -1,0 +1,77 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "morefunnyitems:item/food/tomato",
+		"particle": "morefunnyitems:item/food/tomato"
+	},
+	"elements": [
+		{
+			"from": [5.5, 9, 5.5],
+			"to": [10.5, 9.5, 10.5],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [6, 0, 11, 0.5], "texture": "#1"},
+				"east": {"uv": [6, 2, 11, 2.5], "texture": "#1"},
+				"south": {"uv": [6, 4, 11, 4.5], "texture": "#1"},
+				"west": {"uv": [6, 6, 11, 6.5], "texture": "#1"},
+				"up": {"uv": [5, 5, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 5, 5, 0], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [44, 0, 0],
+			"translation": [0, -1.75, -1],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [44, 0, 0],
+			"translation": [0, -1.75, -1],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"firstperson_righthand": {
+			"rotation": [12, 47, 0],
+			"translation": [1.75, 1.25, -1],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [12, 47, 0],
+			"translation": [1.75, 1.25, -1],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"ground": {
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"gui": {
+			"rotation": [34, 42, 1],
+			"translation": [0, -2.5, 0.75],
+			"scale": [1.9, 1.9, 1.9]
+		},
+		"head": {
+			"translation": [0, -6.75, -8]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, 2.25],
+			"scale": [2.3, 2.3, 2.3]
+		}
+	},
+	"groups": [
+		{
+			"name": "double burger",
+			"origin": [12, 6.75, 8.25],
+			"color": 0,
+			"children": [
+				{
+					"name": "burger",
+					"origin": [12, 6.75, 8.25],
+					"color": 0,
+					"children": []
+				}
+			]
+		},
+		0
+	]
+}

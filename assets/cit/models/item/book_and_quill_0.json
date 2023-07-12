@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "cit:cit_item",
+	"textures": {
+		"0": "cit:item/book_and_quill_0",
+		"1_0": "cit:item/book_and_quill_1"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [10, 3, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 7, 3], "texture": "#1_0"},
+				"east": {"uv": [10, 3, 13, 13], "texture": "#1_0", "rotation": 90},
+				"south": {"uv": [7, 0, 14, 3], "texture": "#1_0"},
+				"west": {"uv": [0, 3, 3, 13], "texture": "#1_0", "rotation": 270},
+				"up": {"uv": [3, 3, 10, 13], "texture": "#1_0"},
+				"down": {"uv": [3, 13, 10, 3], "texture": "#1_0"}
+			}
+		},
+		{
+			"from": [11, 0, 3],
+			"to": [15, 2, 7],
+			"faces": {
+				"north": {"uv": [8, 4, 12, 6], "texture": "#0"},
+				"east": {"uv": [8, 4, 12, 6], "texture": "#0"},
+				"south": {"uv": [8, 4, 12, 6], "texture": "#0"},
+				"west": {"uv": [8, 4, 12, 6], "texture": "#0"},
+				"up": {"uv": [8, 0, 12, 4], "texture": "#0"},
+				"down": {"uv": [8, 0, 12, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [12, 2, 4],
+			"to": [14, 3, 6],
+			"faces": {
+				"north": {"uv": [13, 3, 15, 4], "texture": "#0"},
+				"east": {"uv": [13, 3, 15, 4], "texture": "#0"},
+				"south": {"uv": [13, 3, 15, 4], "texture": "#0"},
+				"west": {"uv": [13, 3, 15, 4], "texture": "#0"},
+				"up": {"uv": [13, 1, 15, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [12, 3, 5],
+			"to": [19, 13, 5],
+			"faces": {
+				"north": {"uv": [15, 6, 8, 16], "texture": "#0"},
+				"south": {"uv": [8, 6, 15, 16], "texture": "#0"}
+			}
+		}
+	]
+}

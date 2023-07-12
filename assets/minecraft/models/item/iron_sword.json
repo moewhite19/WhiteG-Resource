@@ -1,0 +1,26 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/iron_sword"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "morefunnyitems:item/shadow_dagger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "morefunnyitems:item/earth_dagger"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "rpgarmour:item/error"
+		}
+	]
+}

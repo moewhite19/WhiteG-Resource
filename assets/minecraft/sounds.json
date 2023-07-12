@@ -1,0 +1,99 @@
+{
+	"moe.duang": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "moe/duang"
+			}
+		]
+	},
+	"moe.zhengxiang": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "moe/zhengxiang"
+			}
+		]
+	},
+	"moe.huaq": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "moe/huaq_1",
+				"name": "moe/huaq_2"
+			}
+		]
+	},
+	"moe.zbc": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "moe/zbc"
+			}
+		]
+	},
+	"mabaoguo.zhebuhao": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "mabaoguo/zhebuhao"
+			}
+		]
+	},
+	"mabaoguo.zhehaoma": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "mabaoguo/zhehaoma"
+			}
+		]
+	},
+	"mabaoguo.dayi": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "mabaoguo/dayi"
+			}
+		]
+	},
+	"mabaoguo.haoziweizhi": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "mabaoguo/haoziweizhi"
+			}
+		]
+	},
+	"mabaoguo.touxi": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "mabaoguo/touxi"
+			}
+		]
+	},
+	"mabaoguo.youbeierlai": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "mabaoguo/youbeierlai"
+			}
+		]
+	},
+	"mabaoguo.bujiangwude": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "mabaoguo/bujiangwude"
+			}
+		]
+	},
+	"moe.padoru": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "moe/padoru"
+			}
+		]
+	}
+}

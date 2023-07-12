@@ -1,0 +1,34 @@
+{
+	"samuraisword.unsheathed": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "rpgarmour:samuraisword/unsheathed"
+			}
+		]
+	},
+	"samuraisword.unsheathed2": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "rpgarmour:samuraisword/unsheathed2"
+			}
+		]
+	},
+	"samuraisword.put": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "rpgarmour:samuraisword/put"
+			}
+		]
+	},
+	"items.duck_0": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "rpgarmour:items/duck_0"
+			}
+		]
+	}
+}

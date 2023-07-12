@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "cit:cit_item",
+	"textures": {
+		"0": "cit:item/enchanted_book_0"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 3],
+			"to": [12, 3, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 7, 3], "texture": "#0"},
+				"east": {"uv": [10, 3, 13, 13], "texture": "#0", "rotation": 90},
+				"south": {"uv": [7, 0, 14, 3], "texture": "#0"},
+				"west": {"uv": [0, 3, 3, 13], "texture": "#0", "rotation": 270},
+				"up": {"uv": [3, 3, 10, 13], "texture": "#0"},
+				"down": {"uv": [3, 13, 10, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.8, -0.2, 7],
+			"to": [12.2, 3.2, 9],
+			"faces": {
+				"north": {"uv": [0, 14, 1, 15], "texture": "#0"},
+				"east": {"uv": [10, 14, 13, 16], "texture": "#0", "rotation": 90},
+				"south": {"uv": [0, 15, 1, 16], "texture": "#0"},
+				"west": {"uv": [0, 14, 3, 16], "texture": "#0", "rotation": 270},
+				"up": {"uv": [3, 14, 10, 16], "texture": "#0"},
+				"down": {"uv": [0, 14, 7, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [10.04, 3.2, 6.98],
+			"to": [12.08, 3.71, 9.02],
+			"faces": {
+				"north": {"uv": [16, 14, 14, 14.5], "texture": "#0"},
+				"east": {"uv": [14, 14, 16, 14.5], "texture": "#0"},
+				"south": {"uv": [14, 15, 16, 15.5], "texture": "#0"},
+				"west": {"uv": [16, 15, 14, 15.5], "texture": "#0"},
+				"up": {"uv": [14, 14, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 3.2, 8],
+			"to": [13, 3.21, 10],
+			"faces": {
+				"up": {"uv": [0, 14, 2, 16], "texture": "#0"},
+				"down": {"uv": [0, 14, 2, 16], "texture": "#0"}
+			}
+		}
+	]
+}

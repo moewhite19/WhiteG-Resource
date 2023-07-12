@@ -1,0 +1,7 @@
+{
+	"parent": "morefunnyitems:block/acacia_table_1x3",
+	"textures": {
+		"0": "morefunnyitems:block/jungle_table_1x3",
+		"particle": "morefunnyitems:block/jungle_table_1x3"
+	}
+}

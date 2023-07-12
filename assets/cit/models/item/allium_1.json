@@ -1,0 +1,80 @@
+{
+	"credit": "Made with Blockbench Model By MoeWhite",
+	"parent": "cit:cit_item",
+	"textures": {
+		"0": "cit:item/allium_1"
+	},
+	"elements": [
+		{
+			"from": [6.3, 1, 9.25],
+			"to": [7.2, 10, 9.26],
+			"rotation": {"angle": 45, "axis": "y", "origin": [6, 8, 9], "rescale": true},
+			"faces": {
+				"north": {"uv": [2, 6, 3, 15], "texture": "#0"},
+				"south": {"uv": [2, 6, 3, 15], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.75, 1, 8.8],
+			"to": [6.76, 10, 9.7],
+			"rotation": {"angle": 45, "axis": "y", "origin": [6, 8, 9], "rescale": true},
+			"faces": {
+				"east": {"uv": [2, 6, 3, 15], "texture": "#0"},
+				"west": {"uv": [2, 6, 3, 15], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 10, 9.25],
+			"to": [9.4, 15, 9.26],
+			"rotation": {"angle": 45, "axis": "y", "origin": [6, 8, 9], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 1, 6, 6], "texture": "#0"},
+				"south": {"uv": [0, 1, 6, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.7, 10, 6.55],
+			"to": [6.71, 15, 11.95],
+			"rotation": {"angle": 45, "axis": "y", "origin": [6, 8, 9], "rescale": true},
+			"faces": {
+				"east": {"uv": [0, 1, 6, 6], "texture": "#0"},
+				"west": {"uv": [0, 1, 6, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, 2, 8.25],
+			"to": [11, 17, 8.26],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [6, 0, 11, 15], "texture": "#0"},
+				"south": {"uv": [6, 0, 11, 15], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.75, 2, 6],
+			"to": [8.76, 17, 10.5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"east": {"uv": [6, 0, 11, 15], "texture": "#0"},
+				"west": {"uv": [6, 0, 11, 15], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, 0, 5.5],
+			"to": [10.5, 9, 10.5],
+			"faces": {
+				"north": {"uv": [11, 7, 16, 16], "texture": "#0"},
+				"east": {"uv": [11, 7, 16, 16], "texture": "#0"},
+				"south": {"uv": [11, 7, 16, 16], "texture": "#0"},
+				"west": {"uv": [11, 7, 16, 16], "texture": "#0"},
+				"up": {"uv": [11, 0, 16, 5], "texture": "#0"},
+				"down": {"uv": [11, 0, 16, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 14, 0]
+		}
+	}
+}

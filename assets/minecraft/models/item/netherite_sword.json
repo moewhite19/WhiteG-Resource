@@ -1,0 +1,176 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_sword"
+  },
+  "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "morefunnyitems:item/nebula_blade"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "morefunnyitems:item/shadow_claymore"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "morefunnyitems:item/earth_claymore"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "morefunnyitems:item/starcat_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "morefunnyitems:item/starcat_spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "morefunnyitems:item/starcat_staff"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "morefunnyitems:item/galaxy_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "morefunnyitems:item/galaxy_mace"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "morefunnyitems:item/galaxy_wand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "morefunnyitems:item/galaxy_sickle"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 12
+			},
+			"model": "morefunnyitems:item/thunder_sword"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 13
+			},
+			"model": "morefunnyitems:item/thunder_spear"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 14
+			},
+			"model": "morefunnyitems:item/thunder_staff"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 15
+			},
+			"model": "morefunnyitems:item/thunder_scythe"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 16
+			},
+			"model": "morefunnyitems:item/holy_dagger"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 17
+			},
+			"model": "morefunnyitems:item/holy_rapier"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 18
+			},
+			"model": "morefunnyitems:item/holy_claymore"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 19
+			},
+			"model": "morefunnyitems:item/holy_spear"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 20
+			},
+			"model": "morefunnyitems:item/holy_staff"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 21
+			},
+			"model": "morefunnyitems:item/dark_sword"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 22
+			},
+			"model": "morefunnyitems:item/dark_spear"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 23
+			},
+			"model": "morefunnyitems:item/dark_staff"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 24
+			},
+			"model": "morefunnyitems:item/dark_dagger"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 25
+			},
+			"model": "morefunnyitems:item/dark_halberd"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 26
+			},
+			"model": "morefunnyitems:item/dark_katana"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 27
+			},
+			"model": "morefunnyitems:item/dark_bigsword"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 28
+			},
+			"model": "morefunnyitems:item/dark_sickle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "rpgarmour:item/error"
+		}
+  ]
+}

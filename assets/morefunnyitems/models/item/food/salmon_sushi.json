@@ -1,0 +1,77 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "morefunnyitems:item/food/sushi",
+		"particle": "morefunnyitems:item/food/sushi"
+	},
+	"elements": [
+		{
+			"from": [6.25, 7.875, 7.25],
+			"to": [9.75, 8.875, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [6.258, 3.758, 7.125, 3.992], "texture": "#1"},
+				"east": {"uv": [2.508, 7.758, 2.875, 7.992], "texture": "#1"},
+				"south": {"uv": [4.258, 6.258, 5.125, 6.492], "texture": "#1"},
+				"west": {"uv": [7.758, 6.258, 8.125, 6.492], "texture": "#1"},
+				"up": {"uv": [0.875, 4.875, 0.008, 4.508], "texture": "#1"},
+				"down": {"uv": [2.125, 4.508, 1.258, 4.875], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.5, 7.375, 7.25],
+			"to": [9.5, 7.875, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [7.758, 2.008, 8.492, 2.125], "texture": "#1"},
+				"east": {"uv": [8.008, 7.258, 8.375, 7.375], "texture": "#1"},
+				"south": {"uv": [4.008, 7.758, 4.742, 7.875], "texture": "#1"},
+				"west": {"uv": [8.008, 7.758, 8.375, 7.875], "texture": "#1"},
+				"up": {"uv": [4.242, 4.875, 3.508, 4.508], "texture": "#1"},
+				"down": {"uv": [5.242, 3.758, 4.508, 4.125], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [43, 0, 0],
+			"translation": [0, 0.5, 0.5],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [43, 0, 0],
+			"translation": [0, 0.5, 0.5],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"firstperson_righthand": {
+			"rotation": [5, -8, 0],
+			"translation": [1.25, 1.75, 0.5],
+			"scale": [1.7, 1.7, 1.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [5, -8, 0],
+			"translation": [1.25, 1.75, 0.5],
+			"scale": [1.7, 1.7, 1.7]
+		},
+		"ground": {
+			"translation": [0, -2, 0],
+			"scale": [1.7, 1.7, 1.7]
+		},
+		"gui": {
+			"rotation": [28, 26, 0],
+			"translation": [0, -0.5, 0],
+			"scale": [3, 3, 3]
+		},
+		"head": {
+			"rotation": [-5.5, -90, 0],
+			"translation": [0, -5.5, -7.25]
+		},
+		"fixed": {
+			"rotation": [-90, 24, 0],
+			"translation": [0, 0, -1],
+			"scale": [1.7, 1.7, 1.7]
+		}
+	}
+}

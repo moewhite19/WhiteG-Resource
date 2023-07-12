@@ -1,0 +1,20 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_axe"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "rpgarmour:item/shadowmourne"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "rpgarmour:item/error"
+		}
+	]
+}

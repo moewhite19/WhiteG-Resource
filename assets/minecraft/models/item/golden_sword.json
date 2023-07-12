@@ -1,0 +1,62 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/golden_sword"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "rpgarmour:item/frostmourne"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "rpgarmour:item/star_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "rpgarmour:item/titanium_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "rpgarmour:item/katana"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "rpgarmour:item/caliburn"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "tachibana:mods/samurai_sword_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "tachibana:mods/samurai_sword_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "morefunnyitems:item/food/sausage"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "rpgarmour:item/error"
+		}
+	]
+}

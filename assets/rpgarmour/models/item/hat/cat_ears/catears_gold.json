@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench Model By MoeWhite",
+	"parent": "rpgarmour:item/hat/cat_ears/catears",
+	"textures": {
+		"layer0": "rpgarmour:item/hat/cat_ears/catears_gold"
+	}
+}

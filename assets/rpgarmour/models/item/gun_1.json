@@ -1,0 +1,35 @@
+{
+	"parent": "rpgarmour:item/gun",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-1, 89.75, 0],
+			"translation": [0, 4.75, -5.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-5.25, -449.25, -6],
+			"translation": [0, 5, -10]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 80.75, 0],
+			"translation": [2, 4.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -121, 0],
+			"translation": [1.5, 3.5, 0]
+		},
+		"ground": {
+			"translation": [0, 16.5, 0],
+			"scale": [4, 4, 4]
+		},
+		"gui": {
+			"rotation": [0, 0, 44],
+			"translation": [-2, 1.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"rotation": [0, 0, 48.75],
+			"translation": [-3, 1.5, -0.75],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

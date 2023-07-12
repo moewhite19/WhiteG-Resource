@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "cit:cit_item",
+	"textures": {
+		"0": "cit:item/gold_block_0"
+	},
+	"elements": [
+		{
+			"from": [3, 0, 3],
+			"to": [11, 8, 11],
+			"faces": {
+				"north": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"east": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"south": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"west": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"up": {"uv": [8, 8, 16, 16], "texture": "#0"},
+				"down": {"uv": [8, 8, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 8, 4],
+			"to": [9.5, 8.01, 7],
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7, 8, 7]},
+			"faces": {
+				"up": {"uv": [10, 1, 15, 4], "texture": "#0"},
+				"down": {"uv": [10, 4, 15, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 8, 7],
+			"to": [9.5, 8.01, 10],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7, 8, 7]},
+			"faces": {
+				"up": {"uv": [10, 4, 15, 1], "texture": "#0"},
+				"down": {"uv": [10, 1, 15, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 8, 4.5],
+			"to": [10, 8.01, 9.5],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [7, 8, 7]},
+			"faces": {
+				"up": {"uv": [10, 1, 15, 4], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [10, 1, 15, 4], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 8, 4.5],
+			"to": [7, 8.01, 9.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [7, 8, 7]},
+			"faces": {
+				"up": {"uv": [10, 1, 15, 4], "rotation": 270, "texture": "#0"},
+				"down": {"uv": [10, 1, 15, 4], "rotation": 270, "texture": "#0"}
+			}
+		}
+	]
+}

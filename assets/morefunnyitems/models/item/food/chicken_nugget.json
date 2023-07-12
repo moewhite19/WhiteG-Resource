@@ -1,0 +1,64 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"3": "morefunnyitems:item/food/chicken",
+		"particle": "morefunnyitems:item/food/chicken"
+	},
+	"elements": [
+		{
+			"from": [7.375, 7.5, 7.25],
+			"to": [8.625, 8.5, 8.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [11, 10, 11.75, 10.5], "texture": "#3"},
+				"east": {"uv": [11, 11, 11.75, 11.5], "texture": "#3"},
+				"south": {"uv": [0, 11.5, 0.75, 12], "texture": "#3"},
+				"west": {"uv": [1.5, 11.5, 2.25, 12], "texture": "#3"},
+				"up": {"uv": [2.25, 10.75, 1.5, 10], "texture": "#3"},
+				"down": {"uv": [10.75, 1.5, 10, 2.25], "texture": "#3"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [41, 0, 0],
+			"translation": [-0.25, 0, -0.5],
+			"scale": [2, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [41, 0, 0],
+			"translation": [-0.25, 0, -0.5],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [41, 0, 0],
+			"translation": [3.25, 2, -0.5],
+			"scale": [3, 3, 3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [41, 0, 0],
+			"translation": [3.25, 2, -0.5],
+			"scale": [3, 3, 3]
+		},
+		"ground": {
+			"translation": [0, -1.25, 0],
+			"scale": [3, 3, 3]
+		},
+		"gui": {
+			"rotation": [32, 133, -5],
+			"translation": [0.25, -0.25, 0],
+			"scale": [4, 4, 4]
+		},
+		"head": {
+			"rotation": [-14.61, -24.21, -0.46],
+			"translation": [0, -5.5, -6.75]
+		},
+		"fixed": {
+			"rotation": [-90, 32, 0],
+			"translation": [0, 0, -1.5],
+			"scale": [3, 3, 3]
+		}
+	}
+}

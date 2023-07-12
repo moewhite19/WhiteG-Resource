@@ -1,0 +1,518 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/shears"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "rpgarmour:item/bamboo_dragonfly"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "rpgarmour:item/bamboo_dragonfly_on"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "rpgarmour:item/bamboo_dragonfly_on"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "rpgarmour:item/dream_wand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "rpgarmour:item/star_wand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "rpgarmour:item/sealing_wand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "rpgarmour:item/hat/end_envoy"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "rpgarmour:item/hat/fireworker"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "rpgarmour:item/hat/forester"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "rpgarmour:item/hat/frogman"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "rpgarmour:item/hat/gardener"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "rpgarmour:item/hat/mechanician"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "rpgarmour:item/hat/pharmacist"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "rpgarmour:item/hat/santa_claus"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "rpgarmour:item/hat/assaultmask"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "rpgarmour:item/hat/christmas_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "rpgarmour:item/hat/ncrmask"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "rpgarmour:item/pdg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "rpgarmour:item/hat/skimask"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "rpgarmour:item/hat/ushankahat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "rpgarmour:item/hat/wing_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "tachibana:item/samurai_sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "tachibana:item/samurai_sword_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "tachibana:item/muramasa"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "rpgarmour:item/frostmourne"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "rpgarmour:item/valanyr"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "rpgarmour:item/estaff"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "rpgarmour:item/hiyoridemeter"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "rpgarmour:item/yurikas_staff"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "rpgarmour:item/hat/cat_ears/catears"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "rpgarmour:item/hat/cat_ears/catears_diamond"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
+			},
+			"model": "rpgarmour:item/hat/cat_ears/catears_gold"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 39
+			},
+			"model": "rpgarmour:item/hat/cat_ears/catears_zombie"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 42
+			},
+			"model": "minecraft:mod/fan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 44
+			},
+			"model": "rpgarmour:item/broom"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 45
+			},
+			"model": "morefunnyitems:item/broomstick"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 46
+			},
+			"model": "rpgarmour:item/water_gun"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 48
+			},
+			"model": "rpgarmour:item/wrench"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 50
+			},
+			"model": "givemehats:item/bunny_ears"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 52
+			},
+			"model": "givemehats:item/bunny_space_helmet"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 54
+			},
+			"model": "givemehats:item/cat_ears"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 56
+			},
+			"model": "givemehats:item/fox_ears"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 58
+			},
+			"model": "givemehats:item/wolf_ears"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 60
+			},
+			"model": "ghostraven:fox_ear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 61
+			},
+			"model": "ghostraven:fox_ear_l"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 62
+			},
+			"model": "ghostraven:fox_ear_r"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 65
+			},
+			"model": "ghostraven:kanonenjadgpanzercannon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 67
+			},
+			"model": "ghostraven:kanonenjadgpanzer"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 69
+			},
+			"model": "ghostraven:kanonenjadgpanzer_hud"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 70
+			},
+			"model": "rpgarmour:item/error"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 71
+			},
+			"model": "fumo:ran"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72
+			},
+			"model": "fumo:patchouli"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 73
+			},
+			"model": "fumo:yukari"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 74
+			},
+			"model": "fumo:flan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75
+			},
+			"model": "fumo:cirno"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76
+			},
+			"model": "fumo:koishi"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 77
+			},
+			"model": "fumo:marisa"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 78
+			},
+			"model": "fumo:reimu"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 79
+			},
+			"model": "fumo:sakuya"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 80
+			},
+			"model": "fumo:satori"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 81
+			},
+			"model": "fumo:smart_cirno"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 82
+			},
+			"model": "fumo:youmu"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 83
+			},
+			"model": "fumo:yuyuko"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 84
+			},
+			"model": "kitsune_masks:kitsuneback"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 85
+			},
+			"model": "kitsune_masks:kitsunefront"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 86
+			},
+			"model": "kitsune_masks:kitsunefrontl"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 87
+			},
+			"model": "kitsune_masks:kitsunefrontr"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 88
+			},
+			"model": "kitsune_masks:kitsuneside"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 89
+			},
+			"model": "kitsune_masks:kitsunesideb"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 90
+			},
+			"model": "rpgarmour:item/error"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 92
+			},
+			"model": "morefunnyitems:block/phonograph"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 93
+			},
+			"model": "morefunnyitems:block/phonograph_static"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 94
+			},
+			"model": "morefunnyitems:block/phonograph_playing"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 95
+			},
+			"model": "morefunnyitems:item/hat/bolt_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 96
+			},
+			"model": "morefunnyitems:item/hat/witch_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 97
+			},
+			"model": "morefunnyitems:item/hat/demon_horn"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 98
+			},
+			"model": "morefunnyitems:item/hat/antlers_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 99
+			},
+			"model": "morefunnyitems:item/hat/candycane_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 100
+			},
+			"model": "morefunnyitems:item/hat/present_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 101
+			},
+			"model": "morefunnyitems:item/hat/rudolph_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 102
+			},
+			"model": "morefunnyitems:item/hat/snowman_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 103
+			},
+			"model": "morefunnyitems:item/hat/santa_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 104
+			},
+			"model": "morefunnyitems:item/hat/starcat_hood"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 105
+			},
+			"model": "morefunnyitems:item/hat/starcat_headset"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 106
+			},
+			"model": "rpgarmour:item/error"
+		}
+	]
+}

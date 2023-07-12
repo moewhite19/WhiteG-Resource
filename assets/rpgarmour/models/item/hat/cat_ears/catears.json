@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "rpgarmour:item/hat/cat_ears/catears"
+	},
+	"display": {
+		"head": {
+			"translation": [0, 5.25, -3.5]
+		}
+	}
+}

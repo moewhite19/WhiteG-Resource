@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "cit:item/flower_2",
+	"textures": {
+		"3": "cit:item/oxeye_daisy_1a",
+		"4": "cit:item/oxeye_daisy_1b"
+	}
+}

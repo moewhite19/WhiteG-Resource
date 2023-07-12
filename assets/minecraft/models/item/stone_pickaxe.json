@@ -1,0 +1,20 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/stone_pickaxe"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "morefunnyitems:item/burst_pickaxe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "rpgarmour:item/error"
+		}
+	]
+}

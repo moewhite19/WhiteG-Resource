@@ -1,0 +1,74 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "morefunnyitems:item/food/lollipop",
+		"particle": "morefunnyitems:item/food/lollipop"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 8],
+			"to": [9, 15, 9],
+			"faces": {
+				"north": {"uv": [5, 2, 5.5, 7.5], "texture": "#0"},
+				"east": {"uv": [5.5, 2, 6, 7.5], "texture": "#0"},
+				"south": {"uv": [6, 2, 6.5, 7.5], "texture": "#0"},
+				"west": {"uv": [6.5, 2, 7, 7.5], "texture": "#0"},
+				"up": {"uv": [7.5, 2.5, 7, 2], "texture": "#0"},
+				"down": {"uv": [7.5, 2.5, 7, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.5, 11, 7.5],
+			"to": [12.5, 19, 9.5],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+				"east": {"uv": [4, 0, 5, 4], "texture": "#0"},
+				"south": {"uv": [4, 0, 0, 4], "texture": "#0"},
+				"west": {"uv": [4, 4, 5, 8], "texture": "#0"},
+				"up": {"uv": [9, 1, 5, 0], "texture": "#0"},
+				"down": {"uv": [9, 1, 5, 2], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 26, 0],
+			"translation": [-1, 1.75, 1],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 26, 0],
+			"translation": [-1, 1.75, 1],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-21, -74, 0],
+			"translation": [0, 1.5, 1],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-21, -74, 0],
+			"translation": [0, 1.5, 1],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"rotation": [-57, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [30, 13, -46],
+			"translation": [-1, -0.75, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"rotation": [63.75, 0, 0],
+			"translation": [0, -7, -8.75],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"fixed": {
+			"translation": [0, -1.75, -0.5]
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/snowball"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "rpgarmour:item/fairball"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "rpgarmour:item/fairball"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "rpgarmour:item/bullet"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "rpgarmour:item/seekerbow_selector"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "rpgarmour:item/error"
+		}
+	]
+}

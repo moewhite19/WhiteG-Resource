@@ -1,0 +1,8 @@
+{
+	"parent":"morefunnyitems:block/spruce_chair",
+	"textures": {
+		"0": "block/birch_log",
+		"1": "block/birch_planks",
+		"particle": "block/birch_log"
+	}
+}

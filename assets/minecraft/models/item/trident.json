@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/trident"
+  },
+  "overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "morefunnyitems:item/starcat_spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "rpgarmour:item/error"
+		}
+	]
+}

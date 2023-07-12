@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_hoe"
+  },
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "morefunnyitems:item/nebula_hoe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "morefunnyitems:item/starcat_hoe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "morefunnyitems:item/galaxy_hoe"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 5
+			},
+			"model": "morefunnyitems:item/thunder_hoe"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 6
+			},
+			"model": "morefunnyitems:item/holy_hoe"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 7
+			},
+			"model": "morefunnyitems:item/dark_hoe"
+		},
+    	{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "rpgarmour:item/error"
+		}
+  ]
+}
