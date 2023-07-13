@@ -186,20 +186,6 @@
 				"up": {"uv": [8.5, 9, 6, 8], "texture": "#0"},
 				"down": {"uv": [11.5, 0, 9, 1], "texture": "#0"}
 			}
-		},
-		{
-			"name": "hitbox",
-			"from": [2.25, 1, 1.75],
-			"to": [12.25, 7, 11.75],
-			"rotation": {"angle": 0, "axis": "y", "origin": [5.75, 5, 5.25]},
-			"faces": {
-				"north": {"uv": [23, 25, 32, 32], "texture": "#0"},
-				"east": {"uv": [23, 25, 32, 32], "texture": "#0"},
-				"south": {"uv": [23, 25, 32, 32], "texture": "#0"},
-				"west": {"uv": [23, 25, 32, 32], "texture": "#0"},
-				"up": {"uv": [32, 32, 23, 23], "texture": "#0"},
-				"down": {"uv": [32, 23, 23, 32], "texture": "#0"}
-			}
 		}
 	],
 	"display": {
@@ -244,19 +230,7 @@
 				10,
 				11,
 				12,
-				13,
-				{
-					"name": "hitbox",
-					"origin": [0, 4, -1.75],
-					"color": 0,
-					"children": [14]
-				},
-				{
-					"name": "tag_name",
-					"origin": [0, 3.25, -1],
-					"color": 0,
-					"children": []
-				}
+				13
 			]
 		}
 	]
