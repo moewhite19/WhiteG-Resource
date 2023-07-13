@@ -2229,46 +2229,155 @@
 				"custom_model_data": 587
 			},
 			"model": "dove:block/dark/chushiya"
-		},
+		}
+		,
 		{
 			"predicate": {
 				"custom_model_data": 588
 			},
 			"model": "dove:block/dark/qianshuiya"
-		},
+		}
+		,
 		{
 			"predicate": {
 				"custom_model_data": 589
 			},
 			"model": "dove:block/dark/rduck_3dglasses"
-		},
+		}
+		,
 		{
 			"predicate": {
 				"custom_model_data": 590
 			},
 			"model": "dove:block/dark/rduck_boater"
-		},
+		}
+		,
 		{
 			"predicate": {
 				"custom_model_data": 591
 			},
 			"model": "dove:block/dark/rduck_chef"
-		},
+		}
+		,
 		{
 			"predicate": {
 				"custom_model_data": 592
 			},
 			"model": "dove:block/dark/rduck_cowboyhat"
-		},
+		}
+		,
 		{
 			"predicate": {
 				"custom_model_data": 593
 			},
-			"model": "dove:block/dark/rduck_original"
-		},
+			"model": "dove:block/dark/rduck_daisy"
+		}
+		,
 		{
 			"predicate": {
 				"custom_model_data": 594
+			},
+			"model": "dove:block/dark/rduck_disco"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 595
+			},
+			"model": "dove:block/dark/rduck_farmerhat"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 596
+			},
+			"model": "dove:block/dark/rduck_grandma"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 597
+			},
+			"model": "dove:block/dark/rduck_grandpa"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 598
+			},
+			"model": "dove:block/dark/rduck_miner"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 599
+			},
+			"model": "dove:block/dark/rduck_original"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 600
+			},
+			"model": "dove:block/dark/rduck_pirate"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 601
+			},
+			"model": "dove:block/dark/rduck_soldier"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 602
+			},
+			"model": "dove:block/dark/rduck_sunflower"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 603
+			},
+			"model": "dove:block/dark/rduck_top_hat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 604
+			},
+			"model": "dove:block/zsgy/3208"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 605
+			},
+			"model": "dove:block/zsgy/784"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 606
+			},
+			"model": "dove:block/zsgy/786"
+		}
+		,
+		{
+			"predicate": {
+				"custom_model_data": 607
+			},
+			"model": "rpgarmour:item/error"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1080
+			},
+			"model": "dove:block/zsgy/3208"
+		}
+		,{
+			"predicate": {
+				"custom_model_data": 607
 			},
 			"model": "rpgarmour:item/error"
 		}
