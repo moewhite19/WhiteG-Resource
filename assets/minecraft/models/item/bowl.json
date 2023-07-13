@@ -2361,23 +2361,17 @@
 				"custom_model_data": 606
 			},
 			"model": "dove:block/zsgy/786"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 607
+			},
+			"model": "dove:block/zsgy/781"
 		}
 		,
 		{
 			"predicate": {
-				"custom_model_data": 607
-			},
-			"model": "rpgarmour:item/error"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 1080
-			},
-			"model": "dove:block/zsgy/3208"
-		}
-		,{
-			"predicate": {
-				"custom_model_data": 607
+				"custom_model_data": 608
 			},
 			"model": "rpgarmour:item/error"
 		},
