@@ -398,6 +398,12 @@
 			"predicate": {
 				"custom_model_data": 67
 			},
+			"model": "dove:block/qishui/kele"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 68
+			},
 			"model": "rpgarmour:item/error"
 		}
 	]
