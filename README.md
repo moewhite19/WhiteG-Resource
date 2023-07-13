@@ -24,3 +24,6 @@ sakura樱花木以及配套材质来自邦先生
 
 ### morefunnyitems包
 来自群内HJ_jIA
+
+### dove包
+来自群内gezi_QAQ
