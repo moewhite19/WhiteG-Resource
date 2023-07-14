@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "dove:block/qishui/texture"
+		"0": "dove:block/qishui/texture",
+		"particle": "dove:block/qishui/texture"
 	},
 	"elements": [
 		{
