@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench Model By MoeWhite",
 	"parent": "rpgarmour:item/hat/hat_item",
 	"textures": {
-		"0": "item/rgbsheet1",
-		"1": "minecraft:item/glasspanetexture",
-		"particle": "minecraft:item/rgbsheet1"
+		"0": "rpgarmour:item/rgbsheet1",
+		"1": "rpgarmour:item/glasspanetexture",
+		"particle": "rpgarmour:item/rgbsheet1"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "block/cube",
 	"textures": {
-		"white": "item/r0_white",
-		"pink": "item/r0_pink"
+		"white": "rpgarmour:item/r0_white",
+		"pink": "rpgarmour:item/r0_pink"
 	},
 	"elements": [
 		{

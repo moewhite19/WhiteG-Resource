@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "rpgarmour:item/barber",
-		"2": "minecraft:item/rgbsheet1",
+		"2": "rpgarmour:item/rgbsheet1",
 		"particle": "rpgarmour:item/barber"
 	},
 	"elements": [

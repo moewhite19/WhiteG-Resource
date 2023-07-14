@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench Model By MoeWhite",
 	"textures": {
-		"2": "minecraft:item/rgbsheet1"
+		"2": "rpgarmour:item/rgbsheet1"
 	},
 	"elements": [
 		{

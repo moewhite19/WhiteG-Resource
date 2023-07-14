@@ -3,8 +3,8 @@
     "parent": "rpgarmour:item/hat/hat_item",
 	"credit": "Made with Blockbench Model By MoeWhite",
 	"textures": {
-		"0": "minecraft:item/rgbsheet1",
-		"particle": "item/rgbsheet1"
+		"0": "rpgarmour:item/rgbsheet1",
+		"particle": "rpgarmour:item/rgbsheet1"
 	},
 	"elements": [
 		{
