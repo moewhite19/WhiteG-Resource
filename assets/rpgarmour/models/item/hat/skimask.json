@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench Model By MoeWhite",
 	"parent": "rpgarmour:item/hat/hat_item",
 	"textures": {
-		"0": "item/rgbsheet1",
+		"0": "rpgarmour:item/rgbsheet1",
 		"particle": "rpgarmour:item/rgbsheet1"
 	},
 	"elements": [

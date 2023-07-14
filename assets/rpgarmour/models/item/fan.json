@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench Model By MoeWhite",
 	"textures": {
-		"0": "item/fan/lf",
-		"1": "item/fan/deco",
-		"particle": "item/fan/lf"
+		"0": "rpgarmour:item/fan/lf",
+		"1": "rpgarmour:item/fan/deco",
+		"particle": "rpgarmour:item/lf"
 	},
 	"elements": [
 		{

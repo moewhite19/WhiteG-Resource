@@ -206,7 +206,7 @@
 			"predicate": {
 				"custom_model_data": 42
 			},
-			"model": "minecraft:mod/fan"
+			"model": "rpgarmour:item/fan"
 		},
 		{
 			"predicate": {

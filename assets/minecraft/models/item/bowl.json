@@ -188,13 +188,13 @@
 			"predicate": {
 				"custom_model_data": 35
 			},
-			"model": "mod/mio"
+			"model": "rpgarmour:item/mio"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 36
 			},
-			"model": "mod/catpaw"
+			"model": "rpgarmour:item/catpaw"
 		},
 		{
 			"predicate": {
@@ -242,7 +242,7 @@
 			"predicate": {
 				"custom_model_data": 46
 			},
-			"model": "minecraft:mod/mg_bule"
+			"model": "rpgarmour:item/mg_bule"
 		},
 		{
 			"predicate": {
