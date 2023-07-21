@@ -2369,9 +2369,45 @@
 			"model": "dove:block/zsgy/781"
 		}
 		,
+		{ 
+			"predicate": { 
+				"custom_model_data": 608 
+			}, 
+			"model": "dove:block/zombie/drowned_1" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 609 
+			}, 
+			"model": "dove:block/zombie/drowned_2" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 610 
+			}, 
+			"model": "dove:block/zombie/husk_1" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 611 
+			}, 
+			"model": "dove:block/zombie/husk_2" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 612 
+			}, 
+			"model": "dove:block/zombie/zombie" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 613 
+			}, 
+			"model": "dove:block/zombie/zombie2" 
+		},
 		{
 			"predicate": {
-				"custom_model_data": 608
+				"custom_model_data": 614
 			},
 			"model": "rpgarmour:item/error"
 		},
