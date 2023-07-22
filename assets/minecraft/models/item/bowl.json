@@ -2405,9 +2405,27 @@
 			}, 
 			"model": "dove:block/zombie/zombie2" 
 		},
+		{ 
+			"predicate": { 
+				"custom_model_data": 614 
+			}, 
+			"model": "dove:block/wano/rabbit_doll" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 615 
+			}, 
+			"model": "dove:block/wano/student_backpack" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 616 
+			}, 
+			"model": "dove:block/wano/teddy_bear" 
+		}, 
 		{
 			"predicate": {
-				"custom_model_data": 614
+				"custom_model_data": 617
 			},
 			"model": "rpgarmour:item/error"
 		},
