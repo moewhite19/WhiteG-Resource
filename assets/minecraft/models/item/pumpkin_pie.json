@@ -404,6 +404,48 @@
 			"predicate": {
 				"custom_model_data": 68
 			},
+			"model": "dove:block/bbq/beef_kebab"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 69
+			},
+			"model": "dove:block/bbq/berry_milk"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 70
+			},
+			"model": "dove:block/bbq/candy_apple"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 71
+			},
+			"model": "dove:block/bbq/chicken_kebab"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 72
+			},
+			"model": "dove:block/bbq/chocolate_milk"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 73
+			},
+			"model": "dove:block/bbq/failure_food"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 74
+			},
+			"model": "dove:block/bbq/fruit_salad"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 75
+			},
 			"model": "rpgarmour:item/error"
 		}
 	]
