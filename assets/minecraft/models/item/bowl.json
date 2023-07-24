@@ -2229,113 +2229,97 @@
 				"custom_model_data": 587
 			},
 			"model": "dove:block/dark/chushiya"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 588
 			},
 			"model": "dove:block/dark/qianshuiya"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 589
 			},
 			"model": "dove:block/dark/rduck_3dglasses"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 590
 			},
 			"model": "dove:block/dark/rduck_boater"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 591
 			},
 			"model": "dove:block/dark/rduck_chef"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 592
 			},
 			"model": "dove:block/dark/rduck_cowboyhat"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 593
 			},
 			"model": "dove:block/dark/rduck_daisy"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 594
 			},
 			"model": "dove:block/dark/rduck_disco"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 595
 			},
 			"model": "dove:block/dark/rduck_farmerhat"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 596
 			},
 			"model": "dove:block/dark/rduck_grandma"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 597
 			},
 			"model": "dove:block/dark/rduck_grandpa"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 598
 			},
 			"model": "dove:block/dark/rduck_miner"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 599
 			},
 			"model": "dove:block/dark/rduck_original"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 600
 			},
 			"model": "dove:block/dark/rduck_pirate"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 601
 			},
 			"model": "dove:block/dark/rduck_soldier"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 602
 			},
 			"model": "dove:block/dark/rduck_sunflower"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 603
@@ -2347,15 +2331,13 @@
 				"custom_model_data": 604
 			},
 			"model": "dove:block/zsgy/3208"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 605
 			},
 			"model": "dove:block/zsgy/784"
-		}
-		,
+		},
 		{
 			"predicate": {
 				"custom_model_data": 606
@@ -2367,65 +2349,172 @@
 				"custom_model_data": 607
 			},
 			"model": "dove:block/zsgy/781"
-		}
-		,
-		{ 
-			"predicate": { 
-				"custom_model_data": 608 
-			}, 
-			"model": "dove:block/zombie/drowned_1" 
-		}, 
-		{ 
-			"predicate": { 
-				"custom_model_data": 609 
-			}, 
-			"model": "dove:block/zombie/drowned_2" 
-		}, 
-		{ 
-			"predicate": { 
-				"custom_model_data": 610 
-			}, 
-			"model": "dove:block/zombie/husk_1" 
-		}, 
-		{ 
-			"predicate": { 
-				"custom_model_data": 611 
-			}, 
-			"model": "dove:block/zombie/husk_2" 
-		}, 
-		{ 
-			"predicate": { 
-				"custom_model_data": 612 
-			}, 
-			"model": "dove:block/zombie/zombie" 
-		}, 
-		{ 
-			"predicate": { 
-				"custom_model_data": 613 
-			}, 
-			"model": "dove:block/zombie/zombie2" 
 		},
-		{ 
-			"predicate": { 
-				"custom_model_data": 614 
-			}, 
-			"model": "dove:block/wano/rabbit_doll" 
-		}, 
-		{ 
-			"predicate": { 
-				"custom_model_data": 615 
-			}, 
-			"model": "dove:block/wano/student_backpack" 
-		}, 
-		{ 
-			"predicate": { 
-				"custom_model_data": 616 
-			}, 
-			"model": "dove:block/wano/teddy_bear" 
-		}, 
+		{
+			"predicate": {
+				"custom_model_data": 608
+			},
+			"model": "dove:block/zombie/drowned_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 609
+			},
+			"model": "dove:block/zombie/drowned_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 610
+			},
+			"model": "dove:block/zombie/husk_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 611
+			},
+			"model": "dove:block/zombie/husk_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 612
+			},
+			"model": "dove:block/zombie/zombie"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 613
+			},
+			"model": "dove:block/zombie/zombie2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 614
+			},
+			"model": "dove:block/wano/rabbit_doll"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 615
+			},
+			"model": "dove:block/wano/student_backpack"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 616
+			},
+			"model": "dove:block/wano/teddy_bear"
+		},
 		{
 			"predicate": {
 				"custom_model_data": 617
+			},
+			"model": "dove:block/chongwu/aether_dragon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 618
+			},
+			"model": "dove:block/chongwu/dark_kitsune"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 619
+			},
+			"model": "dove:block/chongwu/frost_wolf"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 620
+			},
+			"model": "dove:block/chongwu/ice_dragon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 621
+			},
+			"model": "dove:block/chongwu/icon_bunny"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 622
+			},
+			"model": "dove:block/chongwu/icon_chick"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 623
+			},
+			"model": "dove:block/chongwu/icon_hellhound"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 624
+			},
+			"model": "dove:block/chongwu/icon_killer_bunny"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 625
+			},
+			"model": "dove:block/chongwu/icon_shadow_dragon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 626
+			},
+			"model": "dove:block/chongwu/kitsune"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 627
+			},
+			"model": "dove:block/chongwu/lunar_wolf"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 628
+			},
+			"model": "dove:block/chongwu/nature_dragon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 629
+			},
+			"model": "dove:block/chongwu/nocsy_corgi_icon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 630
+			},
+			"model": "dove:block/chongwu/pet_kitsune"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 631
+			},
+			"model": "dove:block/chongwu/pet_shadow_dragon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 632
+			},
+			"model": "dove:block/chongwu/spirit_fox"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 633
+			},
+			"model": "dove:block/chongwu/undead_dragon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 634
+			},
+			"model": "dove:block/chongwu/wind_dragon"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 635
 			},
 			"model": "rpgarmour:item/error"
 		},
@@ -2438,6 +2527,12 @@
 		{
 			"predicate": {
 				"custom_model_data": 1081
+			},
+			"model": "dove:block/food/restaurant_chair_one"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1082
 			},
 			"model": "rpgarmour:item/error"
 		}
