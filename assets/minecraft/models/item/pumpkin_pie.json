@@ -1,8 +1,8 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/pumpkin_pie"
-    },
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/pumpkin_pie"
+	},
 	"overrides": [
 		{
 			"predicate": {
@@ -445,6 +445,48 @@
 		{
 			"predicate": {
 				"custom_model_data": 75
+			},
+			"model": "dove:block/bbq1/bs_balloon_glow_squid"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 76
+			},
+			"model": "dove:block/bbq1/bs_balloon_jelly_fish"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 77
+			},
+			"model": "dove:block/bbq1/eye_trifle"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 78
+			},
+			"model": "dove:block/bbq1/kejiakaochuan"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 79
+			},
+			"model": "dove:block/bbq1/wine_eye"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 80
+			},
+			"model": "dove:block/bbq1/yanjingbbt"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 81
+			},
+			"model": "dove:block/bbq1/yanqiu"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 82
 			},
 			"model": "rpgarmour:item/error"
 		}
