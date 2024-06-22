@@ -1,0 +1,44 @@
+{
+  "parent": "item/handheld_mace",
+  "textures": {
+    "layer0": "item/mace"
+  },
+"overrides": [
+  {
+    "predicate": {
+      "custom_model_data": 2
+    },
+    "model": "morefunnyitems:item/heart_hammer"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 3
+    },
+    "model": "morefunnyitems:item/starcat_hammer"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 4
+    },
+    "model": "morefunnyitems:item/galaxy_hammer"
+  },
+  {
+    "predicate":{
+      "custom_model_data": 5
+    },
+    "model": "morefunnyitems:item/thunder_hammer"
+  },
+  {
+    "predicate":{
+      "custom_model_data": 6
+    },
+    "model": "morefunnyitems:item/holy_hammer"
+  },
+  {
+    "predicate": {
+      "custom_model_data": 7
+    },
+    "model": "rpgarmour:item/error"
+  }
+]
+}

@@ -264,9 +264,9 @@
 			"scale": [0.39844, 0.39844, 0.39844]
 		},
 		"gui": {
-			"rotation": [0, 0, 46],
-			"translation": [1.25, -1.5, -2],
-			"scale": [0.34062, 0.34062, 0.34062]
+			"rotation": [0, 0, -45],
+			"translation": [-1.25, -1.25, -2],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"head": {
 			"rotation": [0, 0, 135.5],
@@ -283,14 +283,12 @@
 			"name": "Particles",
 			"origin": [15, 8, 12],
 			"color": 0,
-			"boneType": "",
 			"children": [0, 1, 2, 3, 4, 5, 6, 7]
 		},
 		{
 			"name": "Sickle",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"boneType": "",
 			"children": [8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
 		}
 	]
