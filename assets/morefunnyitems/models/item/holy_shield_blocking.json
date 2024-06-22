@@ -285,8 +285,9 @@
 			"scale": [0.77148, 0.77148, 0.77148]
 		},
 		"gui": {
-			"translation": [0.54, -0.25, -5],
-			"scale": [0.53203, 0.53203, 0.53203]
+			"rotation": [-9.72, -31.56, -9.3],
+			"translation": [-0.21, 0, -5],
+			"scale": [0.55, 0.55, 0.55]
 		},
 		"head": {
 			"translation": [0.75, 16.5, 4.75],
@@ -303,14 +304,12 @@
 			"name": "Particles",
 			"origin": [8, 8, 6.5],
 			"color": 0,
-			"boneType": "",
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
 		},
 		{
 			"name": "shield",
 			"origin": [8, 8, 6.5],
 			"color": 0,
-			"boneType": "",
 			"children": [9, 10, 11]
 		},
 		12,
@@ -323,7 +322,6 @@
 			"name": "Bow",
 			"origin": [8, 21, 8],
 			"color": 0,
-			"boneType": "",
 			"children": [18]
 		}
 	]

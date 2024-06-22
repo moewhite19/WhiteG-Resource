@@ -128,22 +128,24 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, -2, 3.5],
-			"scale": [0.7, 0.7, 0.7]
+			"rotation": [2, 0.33, -2.22],
+			"translation": [0, -2, 3.75],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, -2, 3.5],
-			"scale": [0.7, 0.7, 0.7]
+			"rotation": [2, 0.33, -2.22],
+			"translation": [0, -2, 3],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_righthand": {
-			"rotation": [4, 8, 0],
-			"translation": [4, 3, -1.5],
-			"scale": [0.68359, 0.68359, 0.68359]
+			"rotation": [-6.96, 4.76, -0.39],
+			"translation": [2.5, 3.75, -1.5],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"firstperson_lefthand": {
-			"rotation": [4, 8, 0],
-			"translation": [4, 3, -1.5],
-			"scale": [0.68359, 0.68359, 0.68359]
+			"rotation": [-6.96, 4.76, -0.39],
+			"translation": [2.5, 3.75, -1.5],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"ground": {
 			"rotation": [17, 0, 90],
@@ -152,8 +154,8 @@
 		},
 		"gui": {
 			"rotation": [90, 45, 90],
-			"translation": [-1.75, 1.5, -3],
-			"scale": [0.45703, 0.45703, 0.45703]
+			"translation": [-2, 2, -3],
+			"scale": [0.55, 0.55, 0.55]
 		},
 		"head": {
 			"rotation": [90, 0, 90],
@@ -171,14 +173,12 @@
 			"name": "Bow",
 			"origin": [8, 21, 8],
 			"color": 0,
-			"boneType": "",
 			"children": [0, 1, 2, 3, 4, 5, 6]
 		},
 		{
 			"name": "Particles",
 			"origin": [15, 8, 12],
 			"color": 0,
-			"boneType": "",
 			"children": [7, 8]
 		}
 	]

@@ -547,23 +547,23 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-88, 94, 0],
-			"translation": [0, -2.25, 7],
-			"scale": [0.6, 0.6, 0.6]
+			"translation": [0, -2.25, 5],
+			"scale": [0.6, 0.55, 0.6]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [-88, 94, 0],
-			"translation": [0, -2.25, 7],
-			"scale": [0.6, 0.6, 0.6]
+			"translation": [0, -2.25, 5],
+			"scale": [0.6, 0.55, 0.6]
 		},
 		"firstperson_righthand": {
 			"rotation": [19, -86, 84],
-			"translation": [6.75, 3.75, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [4.5, 3.75, -1],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
 			"rotation": [19, -86, 84],
-			"translation": [6.75, 3.75, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [4.5, 3.75, -1],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
 			"translation": [0, 10.25, 0],

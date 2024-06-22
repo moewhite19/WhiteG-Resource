@@ -172,9 +172,9 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [0, 0, 42],
-			"translation": [-0.25, -0.25, -2],
-			"scale": [0.36719, 0.36719, 0.36719]
+			"rotation": [0, 180, 45],
+			"translation": [0.5, 0, -2],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"head": {
 			"rotation": [0, 0, 135.5],
@@ -191,14 +191,12 @@
 			"name": "Sword",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"boneType": "",
 			"children": [0, 1, 2, 3, 4, 5]
 		},
 		{
 			"name": "Particles",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"boneType": "",
 			"children": [6, 7, 8, 9, 10]
 		}
 	]
