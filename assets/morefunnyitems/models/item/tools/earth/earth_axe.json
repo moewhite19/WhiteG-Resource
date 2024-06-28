@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "morefunnyitems:item/earth_axe",
-		"1": "morefunnyitems:item/earth_effect1",
-		"particle": "morefunnyitems:item/earth_axe"
+		"0": "morefunnyitems:item/earth_animations/earth_axe",
+		"1": "morefunnyitems:item/earth_animations/earth_effect1",
+		"particle": "morefunnyitems:item/earth_animations/earth_axe"
 	},
 	"elements": [
 		{

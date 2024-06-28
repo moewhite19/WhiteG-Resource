@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "morefunnyitems:item/earth_sword",
-		"1": "morefunnyitems:item/earth_effect1",
-		"2": "morefunnyitems:item/earth_sword_effect1",
-		"particle": "morefunnyitems:item/earth_sword"
+		"0": "morefunnyitems:item/earth_animations/earth_sword",
+		"1": "morefunnyitems:item/earth_animations/earth_effect1",
+		"2": "morefunnyitems:item/earth_animations/earth_sword_effect1",
+		"particle": "morefunnyitems:item/earth_animations/earth_sword"
 	},
 	"elements": [
 		{
