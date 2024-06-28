@@ -227,14 +227,14 @@
 			"predicate": {
 				"custom_model_data": 8
 			},
-			"model": "morefunnyitems:item/nebula_bow"
+			"model": "morefunnyitems:item/tools/nebula/nebula_bow"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"custom_model_data": 8
 			},
-			"model": "morefunnyitems:item/nebula_bow_0"
+			"model": "morefunnyitems:item/tools/nebula/nebula_bow_0"
 		},
 		{
 			"predicate": {
@@ -242,7 +242,7 @@
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "morefunnyitems:item/nebula_bow_1"
+			"model": "morefunnyitems:item/tools/nebula/nebula_bow_1"
 		},
 		{
 			"predicate": {
@@ -250,20 +250,20 @@
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "morefunnyitems:item/nebula_bow_2"
+			"model": "morefunnyitems:item/tools/nebula/nebula_bow_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 10
 			},
-			"model": "morefunnyitems:item/shadow_bow_pulling_0"
+			"model": "morefunnyitems:item/tools/shadow/shadow_bow_pulling_0"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"custom_model_data": 10
 			},
-			"model": "morefunnyitems:item/shadow_bow_pulling_0"
+			"model": "morefunnyitems:item/tools/shadow/shadow_bow_pulling_0"
 		},
 		{
 			"predicate": {
@@ -271,7 +271,7 @@
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "morefunnyitems:item/shadow_bow_pulling_1"
+			"model": "morefunnyitems:item/tools/shadow/shadow_bow_pulling_1"
 		},
 		{
 			"predicate": {
@@ -279,20 +279,20 @@
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "morefunnyitems:item/shadow_bow_pulling_2"
+			"model": "morefunnyitems:item/tools/shadow/shadow_bow_pulling_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 11
 			},
-			"model": "morefunnyitems:item/earth_bow_pulling_0"
+			"model": "morefunnyitems:item/tools/earth/earth_bow_pulling_0"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"custom_model_data": 11
 			},
-			"model": "morefunnyitems:item/earth_bow_pulling_0"
+			"model": "morefunnyitems:item/tools/earth/earth_bow_pulling_0"
 		},
 		{
 			"predicate": {
@@ -300,7 +300,7 @@
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "morefunnyitems:item/earth_bow_pulling_1"
+			"model": "morefunnyitems:item/tools/earth/earth_bow_pulling_1"
 		},
 		{
 			"predicate": {
@@ -308,20 +308,20 @@
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "morefunnyitems:item/earth_bow_pulling_2"
+			"model": "morefunnyitems:item/tools/earth/earth_bow_pulling_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 12
 			},
-			"model": "morefunnyitems:item/starcat_bow"
+			"model": "morefunnyitems:item/tools/starcat/starcat_bow"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"custom_model_data": 12
 			},
-			"model": "morefunnyitems:item/starcat_bow_0"
+			"model": "morefunnyitems:item/tools/starcat/starcat_bow_0"
 		},
 		{
 			"predicate": {
@@ -329,7 +329,7 @@
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "morefunnyitems:item/starcat_bow_1"
+			"model": "morefunnyitems:item/tools/starcat/starcat_bow_1"
 		},
 		{
 			"predicate": {
@@ -337,20 +337,20 @@
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "morefunnyitems:item/starcat_bow_2"
+			"model": "morefunnyitems:item/tools/starcat/starcat_bow_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 13
 			},
-			"model": "morefunnyitems:item/galaxy_bow"
+			"model": "morefunnyitems:item/tools/galaxy/galaxy_bow"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"custom_model_data": 13
 			},
-			"model": "morefunnyitems:item/galaxy_bow_0"
+			"model": "morefunnyitems:item/tools/galaxy/galaxy_bow_0"
 		},
 		{
 			"predicate": {
@@ -358,7 +358,7 @@
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "morefunnyitems:item/galaxy_bow_1"
+			"model": "morefunnyitems:item/tools/galaxy/galaxy_bow_1"
 		},
 		{
 			"predicate": {
@@ -366,20 +366,20 @@
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "morefunnyitems:item/galaxy_bow_2"
+			"model": "morefunnyitems:item/tools/galaxy/galaxy_bow_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 14
 			},
-			"model": "morefunnyitems:item/galaxy_rifle"
+			"model": "morefunnyitems:item/tools/galaxy/galaxy_rifle"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"custom_model_data": 14
 			},
-			"model": "morefunnyitems:item/galaxy_rifle"
+			"model": "morefunnyitems:item/tools/galaxy/galaxy_rifle"
 		},
 		{
 			"predicate": {
@@ -387,7 +387,7 @@
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "morefunnyitems:item/galaxy_rifle"
+			"model": "morefunnyitems:item/tools/galaxy/galaxy_rifle"
 		},
 		{
 			"predicate": {
@@ -395,20 +395,20 @@
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "morefunnyitems:item/galaxy_rifle"
+			"model": "morefunnyitems:item/tools/galaxy/galaxy_rifle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 15
 			},
-			"model": "morefunnyitems:item/thunder_bow"
+			"model": "morefunnyitems:item/tools/thunder/thunder_bow"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"custom_model_data": 15
 			},
-			"model": "morefunnyitems:item/thunder_bow_0"
+			"model": "morefunnyitems:item/tools/thunder/thunder_bow_0"
 		},
 		{
 			"predicate": {
@@ -416,7 +416,7 @@
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "morefunnyitems:item/thunder_bow_1"
+			"model": "morefunnyitems:item/tools/thunder/thunder_bow_1"
 		},
 		{
 			"predicate": {
@@ -424,20 +424,20 @@
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "morefunnyitems:item/thunder_bow_2"
+			"model": "morefunnyitems:item/tools/thunder/thunder_bow_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 16
 			},
-			"model": "morefunnyitems:item/holy_bow"
+			"model": "morefunnyitems:item/tools/holy/holy_bow"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"custom_model_data": 16
 			},
-			"model": "morefunnyitems:item/holy_bow_0"
+			"model": "morefunnyitems:item/tools/holy/holy_bow_0"
 		},
 		{
 			"predicate": {
@@ -445,7 +445,7 @@
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "morefunnyitems:item/holy_bow_1"
+			"model": "morefunnyitems:item/tools/holy/holy_bow_1"
 		},
 		{
 			"predicate": {
@@ -453,20 +453,20 @@
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "morefunnyitems:item/holy_bow_2"
+			"model": "morefunnyitems:item/tools/holy/holy_bow_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "morefunnyitems:item/dark_bow"
+			"model": "morefunnyitems:item/tools/dark/dark_bow"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"custom_model_data": 17
 			},
-			"model": "morefunnyitems:item/dark_bow_0"
+			"model": "morefunnyitems:item/tools/dark/dark_bow_0"
 		},
 		{
 			"predicate": {
@@ -474,7 +474,7 @@
 				"pulling": 1,
 				"pull": 0.65
 			},
-			"model": "morefunnyitems:item/dark_bow_1"
+			"model": "morefunnyitems:item/tools/dark/dark_bow_1"
 		},
 		{
 			"predicate": {
@@ -482,11 +482,40 @@
 				"pulling": 1,
 				"pull": 0.9
 			},
-			"model": "morefunnyitems:item/dark_bow_2"
+			"model": "morefunnyitems:item/tools/dark/dark_bow_2"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 18
+			},
+			"model": "morefunnyitems:item/tools/soul/soul_bow"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"custom_model_data": 18
+			},
+			"model": "morefunnyitems:item/tools/soul/soul_bow_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "morefunnyitems:item/tools/soul/soul_bow_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "morefunnyitems:item/tools/soul/soul_bow_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
 			},
 			"model": "rpgarmour:item/error"
 		}

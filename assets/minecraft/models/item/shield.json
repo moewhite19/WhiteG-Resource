@@ -2,7 +2,7 @@
     "parent": "builtin/entity",
     "gui_light": "front",
     "textures": {
-        "particle": "block/dark_oak_planks"
+        "particle": "block/dark/dark_oak_planks"
     },
     "display": {
         "thirdperson_righthand": {
@@ -52,31 +52,31 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "morefunnyitems:item/nebula_shield"
+			"model": "morefunnyitems:item/tools/nebula/nebula_shield"
 		},
         {
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "morefunnyitems:item/starcat_shield"
+			"model": "morefunnyitems:item/tools/starcat/starcat_shield"
 		},
         {
 			"predicate":{
 				"custom_model_data": 4
 			},
-			"model": "morefunnyitems:item/thunder_shield"
+			"model": "morefunnyitems:item/tools/thunder/thunder_shield"
 		},
         {
 			"predicate":{
 				"custom_model_data": 5
 			},
-			"model": "morefunnyitems:item/holy_shield"
+			"model": "morefunnyitems:item/tools/holy/holy_shield"
 		},
         {
 			"predicate":{
 				"custom_model_data": 6
 			},
-			"model": "morefunnyitems:item/dark_shield"
+			"model": "morefunnyitems:item/tools/dark/dark_shield"
 		},
 		{
 			"predicate": {

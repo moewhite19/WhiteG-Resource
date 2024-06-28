@@ -8,41 +8,47 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "morefunnyitems:item/nebula_shovel"
+			"model": "morefunnyitems:item/tools/nebula/nebula_shovel"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "morefunnyitems:item/starcat_shovel"
+			"model": "morefunnyitems:item/tools/starcat/starcat_shovel"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 4
 			},
-			"model": "morefunnyitems:item/galaxy_shovel"
+			"model": "morefunnyitems:item/tools/galaxy/galaxy_shovel"
 		},
 		{
 			"predicate":{
 				"custom_model_data": 5
 			},
-			"model": "morefunnyitems:item/thunder_shovel"
+			"model": "morefunnyitems:item/tools/thunder/thunder_shovel"
 		},
 		{
 			"predicate":{
 				"custom_model_data": 6
 			},
-			"model": "morefunnyitems:item/holy_shovel"
+			"model": "morefunnyitems:item/tools/holy/holy_shovel"
 		},
 		{
 			"predicate":{
 				"custom_model_data": 7
 			},
-			"model": "morefunnyitems:item/dark_shovel"
+			"model": "morefunnyitems:item/tools/dark/dark_shovel"
+		},
+		{
+			"predicate":{
+				"custom_model_data": 8
+			},
+			"model": "morefunnyitems:item/tools/soul/soul_shovel"
 		},
  		{
 			"predicate": {
-				"custom_model_data": 8
+				"custom_model_data": 9
 			},
 			"model": "rpgarmour:item/error"
 		}
