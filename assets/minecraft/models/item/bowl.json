@@ -266,7 +266,7 @@
 			"predicate": {
 				"custom_model_data": 64
 			},
-			"model": "morefunnyitems:item/tools/cd_item"
+			"model": "morefunnyitems:item/cd_item"
 		},
 		{
 			"predicate": {
@@ -944,19 +944,19 @@
 			"predicate": {
 				"custom_model_data": 198
 			},
-			"model": "morefunnyitems:item/tools/butterfly"
+			"model": "morefunnyitems:item/butterfly"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 199
 			},
-			"model": "morefunnyitems:item/tools/butterfly_1"
+			"model": "morefunnyitems:item/butterfly_1"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 200
 			},
-			"model": "morefunnyitems:item/tools/butterfly_2"
+			"model": "morefunnyitems:item/butterfly_2"
 		},
 		{
 			"predicate": {
@@ -2228,103 +2228,103 @@
 			"predicate": {
 				"custom_model_data": 587
 			},
-			"model": "dove:block/dark/dark/chushiya"
+			"model": "dove:block/dark/chushiya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 588
 			},
-			"model": "dove:block/dark/dark/qianshuiya"
+			"model": "dove:block/dark/qianshuiya"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 589
 			},
-			"model": "dove:block/dark/dark/rduck_3dglasses"
+			"model": "dove:block/dark/rduck_3dglasses"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 590
 			},
-			"model": "dove:block/dark/dark/rduck_boater"
+			"model": "dove:block/dark/rduck_boater"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 591
 			},
-			"model": "dove:block/dark/dark/rduck_chef"
+			"model": "dove:block/dark/rduck_chef"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 592
 			},
-			"model": "dove:block/dark/dark/rduck_cowboyhat"
+			"model": "dove:block/dark/rduck_cowboyhat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 593
 			},
-			"model": "dove:block/dark/dark/rduck_daisy"
+			"model": "dove:block/dark/rduck_daisy"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 594
 			},
-			"model": "dove:block/dark/dark/rduck_disco"
+			"model": "dove:block/dark/rduck_disco"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 595
 			},
-			"model": "dove:block/dark/dark/rduck_farmerhat"
+			"model": "dove:block/dark/rduck_farmerhat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 596
 			},
-			"model": "dove:block/dark/dark/rduck_grandma"
+			"model": "dove:block/dark/rduck_grandma"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 597
 			},
-			"model": "dove:block/dark/dark/rduck_grandpa"
+			"model": "dove:block/dark/rduck_grandpa"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 598
 			},
-			"model": "dove:block/dark/dark/rduck_miner"
+			"model": "dove:block/dark/rduck_miner"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 599
 			},
-			"model": "dove:block/dark/dark/rduck_original"
+			"model": "dove:block/dark/rduck_original"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 600
 			},
-			"model": "dove:block/dark/dark/rduck_pirate"
+			"model": "dove:block/dark/rduck_pirate"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 601
 			},
-			"model": "dove:block/dark/dark/rduck_soldier"
+			"model": "dove:block/dark/rduck_soldier"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 602
 			},
-			"model": "dove:block/dark/dark/rduck_sunflower"
+			"model": "dove:block/dark/rduck_sunflower"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 603
 			},
-			"model": "dove:block/dark/dark/rduck_top_hat"
+			"model": "dove:block/dark/rduck_top_hat"
 		},
 		{
 			"predicate": {
@@ -2414,7 +2414,7 @@
 			"predicate": {
 				"custom_model_data": 618
 			},
-			"model": "dove:block/chongwu/dark/dark_kitsune"
+			"model": "dove:block/chongwu/dark_kitsune"
 		},
 		{
 			"predicate": {
