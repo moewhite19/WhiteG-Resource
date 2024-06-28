@@ -63,14 +63,14 @@
 			"predicate": {
 				"custom_model_data": 2
 			},
-			"model": "morefunnyitems:item/starcat_crossbow"
+			"model": "morefunnyitems:item/tools/starcat/starcat_crossbow"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"custom_model_data": 2
 			},
-			"model": "morefunnyitems:item/starcat_crossbow_0"
+			"model": "morefunnyitems:item/tools/starcat/starcat_crossbow_0"
 		},
 		{
 			"predicate": {
@@ -78,7 +78,7 @@
 				"pulling": 1,
 				"pull": 0.58
 			},
-			"model": "morefunnyitems:item/starcat_crossbow_1"
+			"model": "morefunnyitems:item/tools/starcat/starcat_crossbow_1"
 		},
 		{
 			"predicate": {
@@ -86,14 +86,14 @@
 				"pulling": 1,
 				"pull": 1
 			},
-			"model": "morefunnyitems:item/starcat_crossbow_2"
+			"model": "morefunnyitems:item/tools/starcat/starcat_crossbow_2"
 		},
         {
             "predicate": {
                 "custom_model_data": 2,
                 "charged": 1
             },
-            "model": "morefunnyitems:item/starcat_crossbow_charged"
+            "model": "morefunnyitems:item/tools/starcat/starcat_crossbow_charged"
         },
         {
             "predicate": {
@@ -101,20 +101,20 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "morefunnyitems:item/starcat_crossbow_charged"
+            "model": "morefunnyitems:item/tools/starcat/starcat_crossbow_charged"
         },
         {
 			"predicate": {
 				"custom_model_data": 3
 			},
-			"model": "morefunnyitems:item/dark_crossbow"
+			"model": "morefunnyitems:item/tools/dark/dark_crossbow"
 		},
 		{
 			"predicate": {
 				"pulling": 1,
 				"custom_model_data": 3
 			},
-			"model": "morefunnyitems:item/dark_crossbow_0"
+			"model": "morefunnyitems:item/tools/dark/dark_crossbow_0"
 		},
 		{
 			"predicate": {
@@ -122,7 +122,7 @@
 				"pulling": 1,
 				"pull": 0.58
 			},
-			"model": "morefunnyitems:item/dark_crossbow_1"
+			"model": "morefunnyitems:item/tools/dark/dark_crossbow_1"
 		},
 		{
 			"predicate": {
@@ -130,14 +130,14 @@
 				"pulling": 1,
 				"pull": 1
 			},
-			"model": "morefunnyitems:item/dark_crossbow_2"
+			"model": "morefunnyitems:item/tools/dark/dark_crossbow_2"
 		},
         {
             "predicate": {
                 "custom_model_data": 3,
                 "charged": 1
             },
-            "model": "morefunnyitems:item/dark_crossbow_charged"
+            "model": "morefunnyitems:item/tools/dark/dark_crossbow_charged"
         },
         {
             "predicate": {
@@ -145,7 +145,7 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "morefunnyitems:item/dark_crossbow_charged"
+            "model": "morefunnyitems:item/tools/dark/dark_crossbow_charged"
         },
         {
 			"predicate": {

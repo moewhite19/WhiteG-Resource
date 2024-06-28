@@ -38,361 +38,361 @@
 			"predicate": {
 				"custom_model_data": 7
 			},
-			"model": "morefunnyitems:item/food/chicken_sandwich"
+			"model": "morefunnyitems:item/tools/food/chicken_sandwich"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 8
 			},
-			"model": "morefunnyitems:item/food/hot_dog"
+			"model": "morefunnyitems:item/tools/food/hot_dog"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 9
 			},
-			"model": "morefunnyitems:item/food/lollipop"
+			"model": "morefunnyitems:item/tools/food/lollipop"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 10
 			},
-			"model": "morefunnyitems:item/food/bubble_tea"
+			"model": "morefunnyitems:item/tools/food/bubble_tea"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 11
 			},
-			"model": "morefunnyitems:item/food/beef_sandwich"
+			"model": "morefunnyitems:item/tools/food/beef_sandwich"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 12
 			},
-			"model": "morefunnyitems:item/food/cod_sandwich"
+			"model": "morefunnyitems:item/tools/food/cod_sandwich"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 13
 			},
-			"model": "morefunnyitems:item/food/donut"
+			"model": "morefunnyitems:item/tools/food/donut"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 14
 			},
-			"model": "morefunnyitems:item/food/glazed_ham"
+			"model": "morefunnyitems:item/tools/food/glazed_ham"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 15
 			},
-			"model": "morefunnyitems:item/food/ham_sandwich"
+			"model": "morefunnyitems:item/tools/food/ham_sandwich"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 16
 			},
-			"model": "morefunnyitems:item/food/pancakes"
+			"model": "morefunnyitems:item/tools/food/pancakes"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 17
 			},
-			"model": "morefunnyitems:item/food/porkchops_applesauce"
+			"model": "morefunnyitems:item/tools/food/porkchops_applesauce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 18
 			},
-			"model": "morefunnyitems:item/food/salmon_sandwich"
+			"model": "morefunnyitems:item/tools/food/salmon_sandwich"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 19
 			},
-			"model": "morefunnyitems:item/food/apple_pie"
+			"model": "morefunnyitems:item/tools/food/apple_pie"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 20
 			},
-			"model": "morefunnyitems:item/food/baguette"
+			"model": "morefunnyitems:item/tools/food/baguette"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 21
 			},
-			"model": "morefunnyitems:item/food/bibimbap"
+			"model": "morefunnyitems:item/tools/food/bibimbap"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 22
 			},
-			"model": "morefunnyitems:item/food/boxed_pizza"
+			"model": "morefunnyitems:item/tools/food/boxed_pizza"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 33
 			},
-			"model": "morefunnyitems:item/food/pizza"
+			"model": "morefunnyitems:item/tools/food/pizza"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 24
 			},
-			"model": "morefunnyitems:item/food/burger_double"
+			"model": "morefunnyitems:item/tools/food/burger_double"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 25
 			},
-			"model": "morefunnyitems:item/food/burger_small"
+			"model": "morefunnyitems:item/tools/food/burger_small"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 26
 			},
-			"model": "morefunnyitems:item/food/oreo"
+			"model": "morefunnyitems:item/tools/food/oreo"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 27
 			},
-			"model": "morefunnyitems:item/food/chicken_nugget"
+			"model": "morefunnyitems:item/tools/food/chicken_nugget"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 28
 			},
-			"model": "morefunnyitems:item/food/chicken_box"
+			"model": "morefunnyitems:item/tools/food/chicken_box"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 29
 			},
-			"model": "morefunnyitems:item/food/fried_chicken"
+			"model": "morefunnyitems:item/tools/food/fried_chicken"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 30
 			},
-			"model": "morefunnyitems:item/food/chicken_set"
+			"model": "morefunnyitems:item/tools/food/chicken_set"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 31
 			},
-			"model": "morefunnyitems:item/food/french_fries"
+			"model": "morefunnyitems:item/tools/food/french_fries"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 32
 			},
-			"model": "morefunnyitems:item/food/roast"
+			"model": "morefunnyitems:item/tools/food/roast"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 33
 			},
-			"model": "morefunnyitems:item/food/roasted_turkey"
+			"model": "morefunnyitems:item/tools/food/roasted_turkey"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 34
 			},
-			"model": "morefunnyitems:item/food/kebap_chicken"
+			"model": "morefunnyitems:item/tools/food/kebap_chicken"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 35
 			},
-			"model": "morefunnyitems:item/food/kebap_lamb"
+			"model": "morefunnyitems:item/tools/food/kebap_lamb"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 36
 			},
-			"model": "morefunnyitems:item/food/kebap_set"
+			"model": "morefunnyitems:item/tools/food/kebap_set"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 37
 			},
-			"model": "morefunnyitems:item/food/tonkatsu"
+			"model": "morefunnyitems:item/tools/food/tonkatsu"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 38
 			},
-			"model": "morefunnyitems:item/food/lettuce"
+			"model": "morefunnyitems:item/tools/food/lettuce"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 39
 			},
-			"model": "morefunnyitems:item/food/tonkatsu_set"
+			"model": "morefunnyitems:item/tools/food/tonkatsu_set"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 40
 			},
-			"model": "morefunnyitems:item/food/sushi_roll"
+			"model": "morefunnyitems:item/tools/food/sushi_roll"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 41
 			},
-			"model": "morefunnyitems:item/food/salmon_sushi"
+			"model": "morefunnyitems:item/tools/food/salmon_sushi"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 42
 			},
-			"model": "morefunnyitems:item/food/sushi_set"
+			"model": "morefunnyitems:item/tools/food/sushi_set"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 43
 			},
-			"model": "morefunnyitems:item/food/ramen"
+			"model": "morefunnyitems:item/tools/food/ramen"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 44
 			},
-			"model": "morefunnyitems:item/food/patty"
+			"model": "morefunnyitems:item/tools/food/patty"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 45
 			},
-			"model": "morefunnyitems:item/food/cheese_slice"
+			"model": "morefunnyitems:item/tools/food/cheese_slice"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 46
 			},
-			"model": "morefunnyitems:item/food/tomato_slice"
+			"model": "morefunnyitems:item/tools/food/tomato_slice"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 47
 			},
-			"model": "morefunnyitems:item/food/onigiri"
+			"model": "morefunnyitems:item/tools/food/onigiri"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 48
 			},
-			"model": "morefunnyitems:item/food/sausage"
+			"model": "morefunnyitems:item/tools/food/sausage"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 49
 			},
-			"model": "morefunnyitems:item/food/taco"
+			"model": "morefunnyitems:item/tools/food/taco"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 50
 			},
-			"model": "morefunnyitems:item/food/donut_chocolate"
+			"model": "morefunnyitems:item/tools/food/donut_chocolate"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 51
 			},
-			"model": "morefunnyitems:item/food/donut_mint"
+			"model": "morefunnyitems:item/tools/food/donut_mint"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 52
 			},
-			"model": "morefunnyitems:item/food/donut_pink"
+			"model": "morefunnyitems:item/tools/food/donut_pink"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 53
 			},
-			"model": "morefunnyitems:item/food/vanilla_cupcake"
+			"model": "morefunnyitems:item/tools/food/vanilla_cupcake"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 54
 			},
-			"model": "morefunnyitems:item/food/chocolate_cupcake"
+			"model": "morefunnyitems:item/tools/food/chocolate_cupcake"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 55
 			},
-			"model": "morefunnyitems:item/food/strawberry_cupcake"
+			"model": "morefunnyitems:item/tools/food/strawberry_cupcake"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 56
 			},
-			"model": "morefunnyitems:item/food/beer"
+			"model": "morefunnyitems:item/tools/food/beer"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 57
 			},
-			"model": "morefunnyitems:item/food/coke"
+			"model": "morefunnyitems:item/tools/food/coke"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 58
 			},
-			"model": "morefunnyitems:item/food/fanta"
+			"model": "morefunnyitems:item/tools/food/fanta"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 59
 			},
-			"model": "morefunnyitems:item/food/lemonade"
+			"model": "morefunnyitems:item/tools/food/lemonade"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 60
 			},
-			"model": "morefunnyitems:item/food/soda_pop"
+			"model": "morefunnyitems:item/tools/food/soda_pop"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 61
 			},
-			"model": "morefunnyitems:item/food/strawberry_ade"
+			"model": "morefunnyitems:item/tools/food/strawberry_ade"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 62
 			},
-			"model": "morefunnyitems:item/food/wine"
+			"model": "morefunnyitems:item/tools/food/wine"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 63
 			},
-			"model": "morefunnyitems:item/food/trifle"
+			"model": "morefunnyitems:item/tools/food/trifle"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 64
 			},
-			"model": "morefunnyitems:item/food/candy_cane"
+			"model": "morefunnyitems:item/tools/food/candy_cane"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 65
 			},
-			"model": "morefunnyitems:item/food/gingerbread"
+			"model": "morefunnyitems:item/tools/food/gingerbread"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 66
 			},
-			"model": "morefunnyitems:item/food/hot_chocolate"
+			"model": "morefunnyitems:item/tools/food/hot_chocolate"
 		},
 		{
 			"predicate": {
