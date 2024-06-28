@@ -1111,13 +1111,13 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"firstperson_righthand": {
-			"rotation": [5, 0, 0],
-			"translation": [4, 6.5, 0],
+			"rotation": [-11.5, 0, 0],
+			"translation": [1.75, 6.5, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [5, 0, 0],
-			"translation": [4, 6.5, 0],
+			"rotation": [-11.5, 0, 0],
+			"translation": [1.75, 6.5, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {

@@ -970,12 +970,12 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [23.43, 28, -5.2],
-			"translation": [0.75, 4.75, -2],
+			"translation": [0.75, 5.5, -2],
 			"scale": [0.42188, 0.42188, 0.42188]
 		},
 		"firstperson_lefthand": {
 			"rotation": [23.43, 28, -5.2],
-			"translation": [0.75, 4.75, -2],
+			"translation": [0.75, 5.5, -2],
 			"scale": [0.42188, 0.42188, 0.42188]
 		},
 		"ground": {

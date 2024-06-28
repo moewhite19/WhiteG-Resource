@@ -1294,14 +1294,14 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"firstperson_righthand": {
-			"rotation": [5, 0, 0],
-			"translation": [4, 6.75, 0],
-			"scale": [0.37656, 0.37656, 0.37656]
+			"rotation": [-7, 0, 0],
+			"translation": [1, 6.75, 0],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [5, 0, 0],
-			"translation": [4, 6.75, 0],
-			"scale": [0.37656, 0.37656, 0.37656]
+			"rotation": [-7, 0, 0],
+			"translation": [1, 6.75, 0],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
 			"rotation": [-45, 0, 0],
