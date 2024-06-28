@@ -2,9 +2,9 @@
 	"credit": "MadebyPolygonMC",
 	"texture_size": [12, 12],
 	"textures": {
-		"1": "morefunnyitems:item/thunder_scythe",
-		"2": "morefunnyitems:item/thunder_animations/animation_4",
-		"particle": "morefunnyitems:item/thunder_scythe"
+		"1": "morefunnyitems:item/thunder_animations/thunder_scythe",
+		"2": "morefunnyitems:item/thunder_animations/thunder_animations/animation_4",
+		"particle": "morefunnyitems:item/thunder_animations/thunder_scythe"
 	},
 	"elements": [
 		{

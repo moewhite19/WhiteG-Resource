@@ -218,7 +218,7 @@
 			"predicate": {
 				"custom_model_data": 45
 			},
-			"model": "morefunnyitems:item/broomstick"
+			"model": "morefunnyitems:item/tools/broomstick"
 		},
 		{
 			"predicate": {
@@ -500,13 +500,13 @@
 			"predicate": {
 				"custom_model_data": 104
 			},
-			"model": "morefunnyitems:item/hat/starcat/starcat_hood"
+			"model": "morefunnyitems:item/hat/starcat_hood"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 105
 			},
-			"model": "morefunnyitems:item/hat/starcat/starcat_headset"
+			"model": "morefunnyitems:item/hat/starcat_headset"
 		},
 		{
 			"predicate": {
