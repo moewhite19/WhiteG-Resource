@@ -218,7 +218,7 @@
 			"predicate": {
 				"custom_model_data": 45
 			},
-			"model": "morefunnyitems:item/tools/broomstick"
+			"model": "morefunnyitems:item/broomstick"
 		},
 		{
 			"predicate": {
@@ -446,67 +446,67 @@
 			"predicate": {
 				"custom_model_data": 95
 			},
-			"model": "morefunnyitems:item/tools/hat/bolt_hat"
+			"model": "morefunnyitems:item/hat/bolt_hat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 96
 			},
-			"model": "morefunnyitems:item/tools/hat/witch_hat"
+			"model": "morefunnyitems:item/hat/witch_hat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 97
 			},
-			"model": "morefunnyitems:item/tools/hat/demon_horn"
+			"model": "morefunnyitems:item/hat/demon_horn"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 98
 			},
-			"model": "morefunnyitems:item/tools/hat/antlers_hat"
+			"model": "morefunnyitems:item/hat/antlers_hat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 99
 			},
-			"model": "morefunnyitems:item/tools/hat/candycane_hat"
+			"model": "morefunnyitems:item/hat/candycane_hat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 100
 			},
-			"model": "morefunnyitems:item/tools/hat/present_hat"
+			"model": "morefunnyitems:item/hat/present_hat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 101
 			},
-			"model": "morefunnyitems:item/tools/hat/rudolph_hat"
+			"model": "morefunnyitems:item/hat/rudolph_hat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 102
 			},
-			"model": "morefunnyitems:item/tools/hat/snowman_hat"
+			"model": "morefunnyitems:item/hat/snowman_hat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 103
 			},
-			"model": "morefunnyitems:item/tools/hat/santa_hat"
+			"model": "morefunnyitems:item/hat/santa_hat"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 104
 			},
-			"model": "morefunnyitems:item/tools/hat/starcat/starcat_hood"
+			"model": "morefunnyitems:item/hat/starcat/starcat_hood"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 105
 			},
-			"model": "morefunnyitems:item/tools/hat/starcat/starcat_headset"
+			"model": "morefunnyitems:item/hat/starcat/starcat_headset"
 		},
 		{
 			"predicate": {
