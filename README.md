@@ -23,7 +23,10 @@ sakura樱花木以及配套材质来自邦先生
 发布地址: https://www.planetminecraft.com/texture-pack/kitsune-masks-cit-pack/
 
 ### morefunnyitems包
-来自群内HJ_jIA
+来自群内：HJ_jIA
 
 ### dove包
-来自群内gezi_QAQ
+来自群内：gezi_QAQ
+
+### tachibana
+来自材质包：Tachibana-Tex-3D
