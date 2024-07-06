@@ -3,7 +3,7 @@
 	"texture_size": [24, 24],
 	"textures": {
 		"1": "morefunnyitems:item/thunder_animations/thunder_hoe",
-		"2": "morefunnyitems:item/thunder_animations/thunder_animations/animation_4",
+		"2": "morefunnyitems:item/thunder_animations/animation_4",
 		"particle": "morefunnyitems:item/thunder_animations/thunder_hoe"
 	},
 	"elements": [

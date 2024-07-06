@@ -434,7 +434,7 @@
 			"predicate": {
 				"custom_model_data": 93
 			},
-			"model": "morefunnyitems:block/dark/dark_oak_chair"
+			"model": "morefunnyitems:block/dark_oak_chair"
 		},
 		{
 			"predicate": {
@@ -476,7 +476,7 @@
 			"predicate": {
 				"custom_model_data": 100
 			},
-			"model": "morefunnyitems:block/mt_chair_wood_dark/dark"
+			"model": "morefunnyitems:block/mt_chair_wood_dark"
 		},
 		{
 			"predicate": {

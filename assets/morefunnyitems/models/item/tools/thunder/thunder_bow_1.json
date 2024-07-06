@@ -2,10 +2,10 @@
 	"credit": "Made by PolygonMC",
 	"texture_size": [24, 24],
 	"textures": {
-		"1": "morefunnyitems:item/thunder_animations/thunder_animations/thunder_bow_1",
-		"2": "morefunnyitems:item/thunder_animations/thunder_animations/thunder_animations/animation_4",
-		"3": "morefunnyitems:item/thunder_animations/thunder_animations/thunder_animations/animation_2",
-		"particle": "morefunnyitems:item/thunder_animations/thunder_animations/thunder_bow_1"
+		"1": "morefunnyitems:item/thunder_animations/thunder_bow_1",
+		"2": "morefunnyitems:item/thunder_animations/animation_4",
+		"3": "morefunnyitems:item/thunder_animations/animation_2",
+		"particle": "morefunnyitems:item/thunder_animations/thunder_bow_1"
 	},
 	"elements": [
 		{

@@ -2,9 +2,9 @@
 	"credit": "MadebyPolygonMC",
 	"texture_size": [4, 4],
 	"textures": {
-		"1": "morefunnyitems:item/thunder_animations/thunder_animations/animation_2",
+		"1": "morefunnyitems:item/thunder_animations/animation_2",
 		"2": "morefunnyitems:item/thunder_animations/thunder_staff",
-		"particle": "morefunnyitems:item/thunder_animations/thunder_animations/animation_2"
+		"particle": "morefunnyitems:item/thunder_animations/animation_2"
 	},
 	"elements": [
 		{
