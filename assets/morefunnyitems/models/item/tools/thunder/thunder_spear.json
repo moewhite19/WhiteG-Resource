@@ -3,8 +3,8 @@
 	"texture_size": [12, 12],
 	"textures": {
 		"0": "morefunnyitems:item/thunder_animations/thunder_spear",
-		"1": "morefunnyitems:item/thunder_animations/thunder_animations/animation_3",
-		"particle": "morefunnyitems:item/thunder_animations/thunder_animations/animation_3"
+		"1": "morefunnyitems:item/thunder_animations/animation_3",
+		"particle": "morefunnyitems:item/thunder_animations/animation_3"
 	},
 	"elements": [
 		{

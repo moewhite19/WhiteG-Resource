@@ -1,9 +1,9 @@
 {
 	"credit": "Made by PolygonMC",
 	"textures": {
-		"0": "morefunnyitems:item/starcat_headset",
+		"0": "morefunnyitems:item/starcat_animations/starcat_headset",
 		"1": "morefunnyitems:item/starcat_animations/animations_1",
-		"particle": "morefunnyitems:item/starcat_headset"
+		"particle": "morefunnyitems:item/starcat_animations/starcat_headset"
 	},
 	"elements": [
 		{

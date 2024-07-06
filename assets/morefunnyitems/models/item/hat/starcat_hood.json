@@ -2,7 +2,7 @@
 	"credit": "Made by PolygonMC",
 	"texture_size": [24, 24],
 	"textures": {
-		"1": "morefunnyitems:item/starcat_hood",
+		"1": "morefunnyitems:item/starcat_animations/starcat_hood",
 		"2": "morefunnyitems:item/starcat_animations/animations_1",
 		"particle": "morefunnyitems:item/starcat_animations/animations_1"
 	},
