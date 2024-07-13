@@ -152,6 +152,148 @@
 				"custom_model_data": 4
 			},
 			"model": "rpgarmour:item/error"
+		},
+
+
+
+
+        {
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "dove:block/qhn/electrofield_crossbow"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"custom_model_data": 5
+			},
+			"model": "dove:block/qhn/electrofield_crossbow_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5,
+				"pulling": 1,
+				"pull": 0.58
+			},
+			"model": "dove:block/qhn/electrofield_crossbow_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5,
+				"pulling": 1,
+				"pull": 1
+			},
+			"model": "dove:block/qhn/electrofield_crossbow_2"
+		},
+        {
+            "predicate": {
+                "custom_model_data": 5,
+                "charged": 1
+            },
+            "model": "dove:block/qhn/electrofield_crossbow_charged"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "dove:block/qhn/electrofield_crossbow_charged"
+        },
+        {
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "dove:block/qhn/involved_electrofield_crossbow"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"custom_model_data": 6
+			},
+			"model": "dove:block/qhn/involved_electrofield_crossbow_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6,
+				"pulling": 1,
+				"pull": 0.58
+			},
+			"model": "dove:block/qhn/involved_electrofield_crossbow_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6,
+				"pulling": 1,
+				"pull": 1
+			},
+			"model": "dove:block/qhn/involved_electrofield_crossbow_2"
+		},
+        {
+            "predicate": {
+                "custom_model_data": 6,
+                "charged": 1
+            },
+            "model": "dove:block/qhn/involved_electrofield_crossbow_charged"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "dove:block/qhn/involved_electrofield_crossbow_charged"
+        },
+        {
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "dove:block/qhn/prestige_electrofield_crossbow"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"custom_model_data": 7
+			},
+			"model": "dove:block/qhn/prestige_electrofield_crossbow_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7,
+				"pulling": 1,
+				"pull": 0.58
+			},
+			"model": "dove:block/qhn/prestige_electrofield_crossbow_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7,
+				"pulling": 1,
+				"pull": 1
+			},
+			"model": "dove:block/qhn/prestige_electrofield_crossbow_2"
+		},
+        {
+            "predicate": {
+                "custom_model_data": 7,
+                "charged": 1
+            },
+            "model": "dove:block/qhn/prestige_electrofield_crossbow_charged"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "dove:block/qhn/prestige_electrofield_crossbow_charged"
+        },
+        {
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "rpgarmour:item/error"
 		}
     ]
 }
