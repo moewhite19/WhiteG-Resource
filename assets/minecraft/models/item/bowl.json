@@ -2512,12 +2512,133 @@
 			},
 			"model": "dove:block/chongwu/wind_dragon"
 		},
+		{ 
+    		"predicate": { 
+    		    "custom_model_data": 635 
+    		}, 
+    		"model": "dove:block/mrwjh/nm_figure_chicken" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 636 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_chicken_unboxed" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 637 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_cow" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 638 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_cow_unboxed" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 639 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_goat" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 640 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_goat_unboxed" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 641 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_mooshroom" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 642 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_mooshroom_unboxed" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 643 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_pig" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 644 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_pig_unboxed" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 645 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_sheep" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 646 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_sheep_unboxed" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 647 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_skeleton" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 648 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_skeleton_unboxed" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 649 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_steve" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 650 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_steve_unboxed" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 651 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_villager" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 652 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_villager_unboxed" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 653 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_zombie" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 654 
+		    }, 
+		    "model": "dove:block/mrwjh/nm_figure_zombie_unboxed" 
+		}, 
 		{
 			"predicate": {
-				"custom_model_data": 635
+				"custom_model_data": 655
 			},
 			"model": "rpgarmour:item/error"
 		},
+		
 		{
 			"predicate": {
 				"custom_model_data": 1080
@@ -2535,134 +2656,6 @@
 				"custom_model_data": 1082
 			},
 			"model": "rpgarmour:item/error"
-		},
-
-		{ 
-    		"predicate": { 
-    		    "custom_model_data": 1083 
-    		}, 
-    		"model": "dove:block/mrwjh/nm_figure_chicken" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1084 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_chicken_unboxed" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1085 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_cow" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1086 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_cow_unboxed" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1087 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_goat" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1088 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_goat_unboxed" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1089 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_mooshroom" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1090 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_mooshroom_unboxed" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1091 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_pig" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1092 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_pig_unboxed" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1093 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_sheep" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1094 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_sheep_unboxed" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1095 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_skeleton" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1096 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_skeleton_unboxed" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1097 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_steve" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1098 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_steve_unboxed" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1099 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_villager" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1100 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_villager_unboxed" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1101 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_zombie" 
-		}, 
-		{ 
-		    "predicate": { 
-		        "custom_model_data": 1102 
-		    }, 
-		    "model": "dove:block/mrwjh/nm_figure_zombie_unboxed" 
-		}, 
-		{
-			"predicate": {
-				"custom_model_data": 1103
-			},
-			"model": "rpgarmour:item/error"
 		}
-
 	]
 }
