@@ -308,7 +308,7 @@
 			"predicate": {
 				"custom_model_data": 71
 			},
-			"model": "morefunnyitems:block/dark/dark_oak_table_1x3"
+			"model": "morefunnyitems:block/dark_oak_table_1x3"
 		},
 		{
 			"predicate": {
@@ -530,25 +530,25 @@
 			"predicate": {
 				"custom_model_data": 109
 			},
-			"model": "morefunnyitems:block/mt_desk_a_dark/dark_l"
+			"model": "morefunnyitems:block/mt_desk_a_dark_l"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 110
 			},
-			"model": "morefunnyitems:block/mt_desk_a_dark/dark_m"
+			"model": "morefunnyitems:block/mt_desk_a_dark_m"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 111
 			},
-			"model": "morefunnyitems:block/mt_desk_a_dark/dark_r"
+			"model": "morefunnyitems:block/mt_desk_a_dark_r"
 		},
 		{
 			"predicate": {
 				"custom_model_data": 112
 			},
-			"model": "morefunnyitems:block/mt_desk_a_dark/dark_s"
+			"model": "morefunnyitems:block/mt_desk_a_dark_s"
 		},
 		{
 			"predicate": {
@@ -1826,6 +1826,168 @@
 			"predicate": {
 				"custom_model_data": 345
 			},
+			"model": "morefunnyitems:block/summer/beach_mat_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 346
+			},
+			"model": "morefunnyitems:block/summer/beach_mat_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 347
+			},
+			"model": "morefunnyitems:block/summer/outdoor_rug"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 348
+			},
+			"model": "morefunnyitems:block/summer/chess"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 349
+			},
+			"model": "morefunnyitems:block/summer/cornhole"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 350
+			},
+			"model": "morefunnyitems:block/summer/fire_pit"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 351
+			},
+			"model": "morefunnyitems:block/summer/ladder_toss"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 352
+			},
+			"model": "morefunnyitems:block/summer/outdoor_cushions"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 353
+			},
+			"model": "morefunnyitems:block/summer/outdoor_planters"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 354
+			},
+			"model": "morefunnyitems:block/summer/beach_umbrella"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 355
+			},
+			"model": "morefunnyitems:block/summer/patio_umbrella"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 356
+			},
+			"model": "morefunnyitems:block/summer/cooler_bucket"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 357
+			},
+			"model": "morefunnyitems:block/summer/drinking_bucket"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 358
+			},
+			"model": "morefunnyitems:block/summer/drinking_set"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 359
+			},
+			"model": "morefunnyitems:block/summer/ice_bucket"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 360
+			},
+			"model": "morefunnyitems:block/summer/outdoor_bar_cart"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 360
+			},
+			"model": "morefunnyitems:block/summer/outdoor_speaker"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 361
+			},
+			"model": "morefunnyitems:block/summer/patio_heater"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 362
+			},
+			"model": "morefunnyitems:block/summer/barbecue_grill"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 363
+			},
+			"model": "morefunnyitems:block/summer/outdoor_lanterns"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 364
+			},
+			"model": "morefunnyitems:block/summer/tiki_torches"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 365
+			},
+			"model": "morefunnyitems:block/summer/string_light"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 366
+			},
+			"model": "morefunnyitems:block/summer/coffee_table"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 367
+			},
+			"model": "morefunnyitems:block/summer/folding_beach_table"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 368
+			},
+			"model": "morefunnyitems:block/summer/folding_picnic_table"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 369
+			},
+			"model": "morefunnyitems:block/summer/outdoor_dining_table"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 370
+			},
+			"model": "morefunnyitems:block/summer/side_table"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 371
+			},
 			"model": "rpgarmour:item/error"
 		},
 		{
@@ -2533,6 +2695,78 @@
 		{
 			"predicate": {
 				"custom_model_data": 1082
+			},
+			"model": "morefunnyitems:block/summer/bench_chair"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1083
+			},
+			"model": "morefunnyitems:block/summer/folding_chair"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1084
+			},
+			"model": "morefunnyitems:block/summer/hammock"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1085
+			},
+			"model": "morefunnyitems:block/summer/hanging_seat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1086
+			},
+			"model": "morefunnyitems:block/summer/long_hanging_seat"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1087
+			},
+			"model": "morefunnyitems:block/summer/outdoor_sofa"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1088
+			},
+			"model": "morefunnyitems:block/summer/outdoor_sofa_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1089
+			},
+			"model": "morefunnyitems:block/summer/outdoor_bench"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1090
+			},
+			"model": "morefunnyitems:block/summer/portable_chair_blue"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1091
+			},
+			"model": "morefunnyitems:block/summer/portable_chair_red"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1092
+			},
+			"model": "morefunnyitems:block/summer/rocking_chair"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1093
+			},
+			"model": "morefunnyitems:block/summer/adirondack_chair"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 1094
 			},
 			"model": "rpgarmour:item/error"
 		}
