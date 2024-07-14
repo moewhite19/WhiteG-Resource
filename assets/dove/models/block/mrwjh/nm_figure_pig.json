@@ -2,10 +2,10 @@
 	"credit": "Made by Nog's Menagerie",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "nogs_menagerie:figures/nm_figure_box_pig_texture",
-		"1": "nogs_menagerie:figures/nm_figure_logo_texture",
-		"2": "nogs_menagerie:figures/nm_figure_pig_texture",
-		"particle": "nogs_menagerie:figures/nm_figure_box_pig_texture"
+		"0": "dove:block/mrwjh/nm_figure_box_pig_texture",
+		"1": "dove:block/mrwjh/nm_figure_logo_texture",
+		"2": "dove:block/mrwjh/nm_figure_pig_texture",
+		"particle": "dove:block/mrwjh/nm_figure_box_pig_texture"
 	},
 	"elements": [
 		{
