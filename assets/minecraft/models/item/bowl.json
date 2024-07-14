@@ -2794,12 +2794,362 @@
 		    }, 
 		    "model": "dove:block/mrwjh/nm_figure_zombie_unboxed" 
 		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 655
+		    }, 
+		    "model": "dove:block/maoronjiajv/white_wooden_lowtable" 
+		},
+
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 656 
+		    }, 
+		    "model": "dove:block/maoronjiajv/amethyst_bedside_table" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 657 
+		    }, 
+		    "model": "dove:block/maoronjiajv/amethyst_biglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 658 
+		    }, 
+		    "model": "dove:block/maoronjiajv/amethyst_diningtable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 659 
+		    }, 
+		    "model": "dove:block/maoronjiajv/amethyst_hanginglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 660 
+		    }, 
+		    "model": "dove:block/maoronjiajv/amethyst_lamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 661 
+		    }, 
+		    "model": "dove:block/maoronjiajv/amethyst_lowtable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 662 
+		    }, 
+		    "model": "dove:block/maoronjiajv/amethyst_paint" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 663 
+		    }, 
+		    "model": "dove:block/maoronjiajv/amethyst_storage_furniture" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 664 
+		    }, 
+		    "model": "dove:block/maoronjiajv/amethys_buffet_table" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 665 
+		    }, 
+		    "model": "dove:block/maoronjiajv/bluepaint" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 666 
+		    }, 
+		    "model": "dove:block/maoronjiajv/cyan_bedside_table" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 667 
+		    }, 
+		    "model": "dove:block/maoronjiajv/cyan_buffet_table" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 668 
+		    }, 
+		    "model": "dove:block/maoronjiajv/cyan_lowtable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 669 
+		    }, 
+		    "model": "dove:block/maoronjiajv/cyan_storage_furniture" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 670 
+		    }, 
+		    "model": "dove:block/maoronjiajv/cyan_summerpaint" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 671 
+		    }, 
+		    "model": "dove:block/maoronjiajv/cyan_wooden_biglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 672 
+		    }, 
+		    "model": "dove:block/maoronjiajv/cyan_wooden_diningtable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 673 
+		    }, 
+		    "model": "dove:block/maoronjiajv/cyan_wooden_hanginglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 674 
+		    }, 
+		    "model": "dove:block/maoronjiajv/cyan_wooden_lamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 675 
+		    }, 
+		    "model": "dove:block/maoronjiajv/gray_acaciapaint" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 676 
+		    }, 
+		    "model": "dove:block/maoronjiajv/gray_bedside_table" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 677 
+		    }, 
+		    "model": "dove:block/maoronjiajv/gray_storage_furniture" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 678 
+		    }, 
+		    "model": "dove:block/maoronjiajv/gray_wooden_biglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 679 
+		    }, 
+		    "model": "dove:block/maoronjiajv/gray_wooden_buffettable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 680 
+		    }, 
+		    "model": "dove:block/maoronjiajv/gray_wooden_diningtable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 681 
+		    }, 
+		    "model": "dove:block/maoronjiajv/gray_wooden_hanginglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 682 
+		    }, 
+		    "model": "dove:block/maoronjiajv/gray_wooden_lamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 683 
+		    }, 
+		    "model": "dove:block/maoronjiajv/gray_wooden_lowtable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 684 
+		    }, 
+		    "model": "dove:block/maoronjiajv/greenpaint" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 685 
+		    }, 
+		    "model": "dove:block/maoronjiajv/greenpaintb" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 686 
+		    }, 
+		    "model": "dove:block/maoronjiajv/iron_bedside_table" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 687 
+		    }, 
+		    "model": "dove:block/maoronjiajv/iron_biglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 688 
+		    }, 
+		    "model": "dove:block/maoronjiajv/iron_buffettable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 689 
+		    }, 
+		    "model": "dove:block/maoronjiajv/iron_diningtable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 690 
+		    }, 
+		    "model": "dove:block/maoronjiajv/iron_hanginglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 691 
+		    }, 
+		    "model": "dove:block/maoronjiajv/iron_lamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 692 
+		    }, 
+		    "model": "dove:block/maoronjiajv/iron_lowtable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 693 
+		    }, 
+		    "model": "dove:block/maoronjiajv/iron_paint" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 694 
+		    }, 
+		    "model": "dove:block/maoronjiajv/iron_storage_furniture" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 695 
+		    }, 
+		    "model": "dove:block/maoronjiajv/radio" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 696 
+		    }, 
+		    "model": "dove:block/maoronjiajv/red_bedside_table" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 697 
+		    }, 
+		    "model": "dove:block/maoronjiajv/red_oakpaint" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 698 
+		    }, 
+		    "model": "dove:block/maoronjiajv/red_storage_furniture" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 699 
+		    }, 
+		    "model": "dove:block/maoronjiajv/red_wooden_biglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 700 
+		    }, 
+		    "model": "dove:block/maoronjiajv/red_wooden_buffettable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 701 
+		    }, 
+		    "model": "dove:block/maoronjiajv/red_wooden_diningtable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 702 
+		    }, 
+		    "model": "dove:block/maoronjiajv/red_wooden_hanginglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 703 
+		    }, 
+		    "model": "dove:block/maoronjiajv/red_wooden_lamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 704 
+		    }, 
+		    "model": "dove:block/maoronjiajv/red_wooden_lowtable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 705 
+		    }, 
+		    "model": "dove:block/maoronjiajv/white_bedside_table" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 706 
+		    }, 
+		    "model": "dove:block/maoronjiajv/white_sprucepaint" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 707 
+		    }, 
+		    "model": "dove:block/maoronjiajv/white_storage_furniture" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 708 
+		    }, 
+		    "model": "dove:block/maoronjiajv/white_wooden_biglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 709 
+		    }, 
+		    "model": "dove:block/maoronjiajv/white_wooden_buffettable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 710 
+		    }, 
+		    "model": "dove:block/maoronjiajv/white_wooden_diningtable" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 711 
+		    }, 
+		    "model": "dove:block/maoronjiajv/white_wooden_hanginglamp" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 712 
+		    }, 
+		    "model": "dove:block/maoronjiajv/white_wooden_lamp" 
+		}, 
+		
 		{
 			"predicate": {
-				"custom_model_data": 655
+				"custom_model_data": 713
 			},
 			"model": "rpgarmour:item/error"
-		},
+		} ,
 		
 		{
 			"predicate": {
@@ -2885,9 +3235,226 @@
 			},
 			"model": "morefunnyitems:block/summer/adirondack_chair"
 		},
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1094 
+		    }, 
+		    "model": "dove:block/maoronyizi/amethyst_chair" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1095 
+		    }, 
+		    "model": "dove:block/maoronyizi/amethyst_sofa_corner" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1096 
+		    }, 
+		    "model": "dove:block/maoronyizi/amethyst_sofa_left" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1097 
+		    }, 
+		    "model": "dove:block/maoronyizi/amethyst_sofa_middle" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1098 
+		    }, 
+		    "model": "dove:block/maoronyizi/amethyst_sofa_right" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1099 
+		    }, 
+		    "model": "dove:block/maoronyizi/amethyst_sofa_single" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1100 
+		    }, 
+		    "model": "dove:block/maoronyizi/cyan_wooden_chair" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1101 
+		    }, 
+		    "model": "dove:block/maoronyizi/cyan_wooden_sofa_corner" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1102 
+		    }, 
+		    "model": "dove:block/maoronyizi/cyan_wooden_sofa_left" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1103 
+		    }, 
+		    "model": "dove:block/maoronyizi/cyan_wooden_sofa_middle" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1104 
+		    }, 
+		    "model": "dove:block/maoronyizi/cyan_wooden_sofa_right" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1105 
+		    }, 
+		    "model": "dove:block/maoronyizi/cyan_wooden_sofa_single" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1106 
+		    }, 
+		    "model": "dove:block/maoronyizi/gray_wooden_chair" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1107 
+		    }, 
+		    "model": "dove:block/maoronyizi/gray_wooden_sofa_corner" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1108 
+		    }, 
+		    "model": "dove:block/maoronyizi/gray_wooden_sofa_left" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1109 
+		    }, 
+		    "model": "dove:block/maoronyizi/gray_wooden_sofa_middle" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1110 
+		    }, 
+		    "model": "dove:block/maoronyizi/gray_wooden_sofa_right" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1111 
+		    }, 
+		    "model": "dove:block/maoronyizi/gray_wooden_sofa_single" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1112 
+		    }, 
+		    "model": "dove:block/maoronyizi/iron_chair" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1113 
+		    }, 
+		    "model": "dove:block/maoronyizi/iron_sofa_corner" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1114 
+		    }, 
+		    "model": "dove:block/maoronyizi/iron_sofa_left" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1115 
+		    }, 
+		    "model": "dove:block/maoronyizi/iron_sofa_middle" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1116 
+		    }, 
+		    "model": "dove:block/maoronyizi/iron_sofa_right" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1117 
+		    }, 
+		    "model": "dove:block/maoronyizi/iron_sofa_single" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1118 
+		    }, 
+		    "model": "dove:block/maoronyizi/red_wooden_chair" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1119 
+		    }, 
+		    "model": "dove:block/maoronyizi/red_wooden_sofa_corner" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1120 
+		    }, 
+		    "model": "dove:block/maoronyizi/red_wooden_sofa_left" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1121 
+		    }, 
+		    "model": "dove:block/maoronyizi/red_wooden_sofa_middle" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1122 
+		    }, 
+		    "model": "dove:block/maoronyizi/red_wooden_sofa_right" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1123 
+		    }, 
+		    "model": "dove:block/maoronyizi/red_wooden_sofa_single" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1124 
+		    }, 
+		    "model": "dove:block/maoronyizi/white_wooden_chair" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1125 
+		    }, 
+		    "model": "dove:block/maoronyizi/white_wooden_sofa_corner" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1126 
+		    }, 
+		    "model": "dove:block/maoronyizi/white_wooden_sofa_left" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1127 
+		    }, 
+		    "model": "dove:block/maoronyizi/white_wooden_sofa_middle" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1128 
+		    }, 
+		    "model": "dove:block/maoronyizi/white_wooden_sofa_right" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 1129 
+		    }, 
+		    "model": "dove:block/maoronyizi/white_wooden_sofa_single" 
+		}, 
+
 		{
 			"predicate": {
-				"custom_model_data": 1094
+				"custom_model_data": 1130
 			},
 			"model": "rpgarmour:item/error"
 		}

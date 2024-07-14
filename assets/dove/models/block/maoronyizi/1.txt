@@ -1,0 +1,216 @@
+{ 
+    "predicate": { 
+        "custom_model_data": 1094 
+    }, 
+    "model": "dove:block/maoronyizi/amethyst_chair" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1095 
+    }, 
+    "model": "dove:block/maoronyizi/amethyst_sofa_corner" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1096 
+    }, 
+    "model": "dove:block/maoronyizi/amethyst_sofa_left" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1097 
+    }, 
+    "model": "dove:block/maoronyizi/amethyst_sofa_middle" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1098 
+    }, 
+    "model": "dove:block/maoronyizi/amethyst_sofa_right" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1099 
+    }, 
+    "model": "dove:block/maoronyizi/amethyst_sofa_single" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1100 
+    }, 
+    "model": "dove:block/maoronyizi/cyan_wooden_chair" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1101 
+    }, 
+    "model": "dove:block/maoronyizi/cyan_wooden_sofa_corner" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1102 
+    }, 
+    "model": "dove:block/maoronyizi/cyan_wooden_sofa_left" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1103 
+    }, 
+    "model": "dove:block/maoronyizi/cyan_wooden_sofa_middle" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1104 
+    }, 
+    "model": "dove:block/maoronyizi/cyan_wooden_sofa_right" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1105 
+    }, 
+    "model": "dove:block/maoronyizi/cyan_wooden_sofa_single" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1106 
+    }, 
+    "model": "dove:block/maoronyizi/gray_wooden_chair" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1107 
+    }, 
+    "model": "dove:block/maoronyizi/gray_wooden_sofa_corner" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1108 
+    }, 
+    "model": "dove:block/maoronyizi/gray_wooden_sofa_left" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1109 
+    }, 
+    "model": "dove:block/maoronyizi/gray_wooden_sofa_middle" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1110 
+    }, 
+    "model": "dove:block/maoronyizi/gray_wooden_sofa_right" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1111 
+    }, 
+    "model": "dove:block/maoronyizi/gray_wooden_sofa_single" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1112 
+    }, 
+    "model": "dove:block/maoronyizi/iron_chair" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1113 
+    }, 
+    "model": "dove:block/maoronyizi/iron_sofa_corner" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1114 
+    }, 
+    "model": "dove:block/maoronyizi/iron_sofa_left" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1115 
+    }, 
+    "model": "dove:block/maoronyizi/iron_sofa_middle" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1116 
+    }, 
+    "model": "dove:block/maoronyizi/iron_sofa_right" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1117 
+    }, 
+    "model": "dove:block/maoronyizi/iron_sofa_single" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1118 
+    }, 
+    "model": "dove:block/maoronyizi/red_wooden_chair" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1119 
+    }, 
+    "model": "dove:block/maoronyizi/red_wooden_sofa_corner" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1120 
+    }, 
+    "model": "dove:block/maoronyizi/red_wooden_sofa_left" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1121 
+    }, 
+    "model": "dove:block/maoronyizi/red_wooden_sofa_middle" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1122 
+    }, 
+    "model": "dove:block/maoronyizi/red_wooden_sofa_right" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1123 
+    }, 
+    "model": "dove:block/maoronyizi/red_wooden_sofa_single" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1124 
+    }, 
+    "model": "dove:block/maoronyizi/white_wooden_chair" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1125 
+    }, 
+    "model": "dove:block/maoronyizi/white_wooden_sofa_corner" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1126 
+    }, 
+    "model": "dove:block/maoronyizi/white_wooden_sofa_left" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1127 
+    }, 
+    "model": "dove:block/maoronyizi/white_wooden_sofa_middle" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1128 
+    }, 
+    "model": "dove:block/maoronyizi/white_wooden_sofa_right" 
+}, 
+{ 
+    "predicate": { 
+        "custom_model_data": 1129 
+    }, 
+    "model": "dove:block/maoronyizi/white_wooden_sofa_single" 
+}, 
