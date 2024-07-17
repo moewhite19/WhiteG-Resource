@@ -95,8 +95,15 @@
 			"model": "morefunnyitems:item/tools/soul/soul_axe"
 		},
 		{
-			"predicate": {
+			"predicate":{
 				"custom_model_data": 17
+			},
+			"model": "dove:block/xxwq/axe"
+		},
+
+		{
+			"predicate": {
+				"custom_model_data": 18
 			},
 			"model": "rpgarmour:item/error"
 		}

@@ -517,6 +517,35 @@
 			"predicate": {
 				"custom_model_data": 19
 			},
+			"model": "dove:block/xxwq/bow"
+		},
+		{
+			"predicate": {
+				"pulling": 1,
+				"custom_model_data": 19
+			},
+			"model": "dove:block/xxwq/bow_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19,
+				"pulling": 1,
+				"pull": 0.65
+			},
+			"model": "dove:block/xxwq/bow_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19,
+				"pulling": 1,
+				"pull": 0.9
+			},
+			"model": "dove:block/xxwq/bow_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
 			"model": "rpgarmour:item/error"
 		}
 	]

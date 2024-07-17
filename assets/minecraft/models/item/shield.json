@@ -78,9 +78,15 @@
 			},
 			"model": "morefunnyitems:item/tools/dark/dark_shield"
 		},
+        {
+			"predicate":{
+				"custom_model_data": 7
+			},
+			"model": "dove:block/xxwq/shield"
+		},
 		{
 			"predicate": {
-				"custom_model_data": 7
+				"custom_model_data": 8
 			},
 			"model": "rpgarmour:item/error"
 		}

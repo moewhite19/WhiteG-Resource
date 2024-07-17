@@ -209,8 +209,20 @@
 			"model": "morefunnyitems:item/tools/soul/soul_scythe"
 		},
 		{
-			"predicate": {
+			"predicate":{
 				"custom_model_data": 36
+			},
+			"model": "dove:block/xxwq/hoe"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 37
+			},
+			"model": "dove:block/xxwq/sword"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 38
 			},
 			"model": "rpgarmour:item/error"
 		}

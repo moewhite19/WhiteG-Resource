@@ -46,9 +46,15 @@
 			},
 			"model": "morefunnyitems:item/tools/soul/soul_shovel"
 		},
+		{
+			"predicate":{
+				"custom_model_data": 9
+			},
+			"model": "dove:block/xxwq/staff"
+		},
  		{
 			"predicate": {
-				"custom_model_data": 9
+				"custom_model_data": 10
 			},
 			"model": "rpgarmour:item/error"
 		}

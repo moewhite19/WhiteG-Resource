@@ -3143,10 +3143,220 @@
 		    }, 
 		    "model": "dove:block/maoronjiajv/white_wooden_lamp" 
 		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 713 
+		    }, 
+		    "model": "dove:block/rsjj/lantern_1" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 714 
+		    }, 
+		    "model": "dove:block/rsjj/lantern_2" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 715 
+		    }, 
+		    "model": "dove:block/rsjj/lantern_3" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 716 
+		    }, 
+		    "model": "dove:block/rsjj/lantern_4" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 717 
+		    }, 
+		    "model": "dove:block/rsjj/lantern_5" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 718 
+		    }, 
+		    "model": "dove:block/rsjj/lantern_6" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 719 
+		    }, 
+		    "model": "dove:block/rsjj/lantern_7" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 720 
+		    }, 
+		    "model": "dove:block/rsjj/sign_1" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 721 
+		    }, 
+		    "model": "dove:block/rsjj/sign_10" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 722 
+		    }, 
+		    "model": "dove:block/rsjj/sign_11" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 723 
+		    }, 
+		    "model": "dove:block/rsjj/sign_12" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 724 
+		    }, 
+		    "model": "dove:block/rsjj/sign_13" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 725 
+		    }, 
+		    "model": "dove:block/rsjj/sign_14" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 726 
+		    }, 
+		    "model": "dove:block/rsjj/sign_15" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 727 
+		    }, 
+		    "model": "dove:block/rsjj/sign_16" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 728 
+		    }, 
+		    "model": "dove:block/rsjj/sign_17" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 729 
+		    }, 
+		    "model": "dove:block/rsjj/sign_18" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 730 
+		    }, 
+		    "model": "dove:block/rsjj/sign_2" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 731 
+		    }, 
+		    "model": "dove:block/rsjj/sign_3" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 732 
+		    }, 
+		    "model": "dove:block/rsjj/sign_4" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 733 
+		    }, 
+		    "model": "dove:block/rsjj/sign_5" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 734 
+		    }, 
+		    "model": "dove:block/rsjj/sign_6" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 735 
+		    }, 
+		    "model": "dove:block/rsjj/sign_7" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 736 
+		    }, 
+		    "model": "dove:block/rsjj/sign_8" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 737 
+		    }, 
+		    "model": "dove:block/rsjj/sign_9" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 738 
+		    }, 
+		    "model": "dove:block/rsjj/umbrella_1" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 739 
+		    }, 
+		    "model": "dove:block/rsjj/umbrella_2" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 740 
+		    }, 
+		    "model": "dove:block/rsjj/umbrella_3" 
+		}, 
+		{ 
+		    "predicate": { 
+		        "custom_model_data": 741 
+		    }, 
+		    "model": "dove:block/rsjj/umbrella_4" 
+		}, { 
+			"predicate": { 
+				"custom_model_data": 742 
+			}, 
+			"model": "dove:block/xxwp/backpack" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 743 
+			}, 
+			"model": "dove:block/xxwp/flag" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 744 
+			}, 
+			"model": "dove:block/xxwp/hood" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 745 
+			}, 
+			"model": "dove:block/xxwp/key" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 746 
+			}, 
+			"model": "dove:block/xxwp/teddybear" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 747
+			}, 
+			"model": "dove:block/xxwq/swim_tube" 
+		}, 
 		
+
 		{
 			"predicate": {
-				"custom_model_data": 713
+				"custom_model_data": 748
 			},
 			"model": "rpgarmour:item/error"
 		} ,
@@ -3453,7 +3663,7 @@
 		}, 
 
 		{
-			"predicate": {
+			"predicate": {	
 				"custom_model_data": 1130
 			},
 			"model": "rpgarmour:item/error"
