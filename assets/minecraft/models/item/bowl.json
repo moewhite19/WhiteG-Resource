@@ -1988,6 +1988,156 @@
 			"predicate": {
 				"custom_model_data": 371
 			},
+			"model": "morefunnyitems:block/jf/jf2_flower-pot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 372
+			},
+			"model": "morefunnyitems:block/jf/jf2_flower-pot-2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 373
+			},
+			"model": "morefunnyitems:block/jf/jf2_green-book-with-cam"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 374
+			},
+			"model": "morefunnyitems:block/jf/jf2_stand-with-a-book"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 375
+			},
+			"model": "morefunnyitems:block/jf/jf2_red-tea-set"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 376
+			},
+			"model": "morefunnyitems:block/jf/jf2_red-tea-set-2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 377
+			},
+			"model": "morefunnyitems:block/jf/white-decanter"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 378
+			},
+			"model": "morefunnyitems:block/jf/jf2_purpur-small-box-close"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 379
+			},
+			"model": "morefunnyitems:block/jf/jf2_purpur-small-box-open"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 380
+			},
+			"model": "morefunnyitems:block/jf/jf2_wood-box"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 381
+			},
+			"model": "morefunnyitems:block/jf/jf2_white-box"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 382
+			},
+			"model": "morefunnyitems:block/jf/jf2_box-of-book"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 383
+			},
+			"model": "morefunnyitems:block/jf/jf2_money-chest"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 384
+			},
+			"model": "morefunnyitems:block/jf/jf2_white-jar"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 385
+			},
+			"model": "morefunnyitems:block/jf/jf2_basket"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 386
+			},
+			"model": "morefunnyitems:block/jf/jf2_joss-pot"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 387
+			},
+			"model": "morefunnyitems:block/jf/jf2_black-blow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 390
+			},
+			"model": "morefunnyitems:block/jf/jf2_blue-blow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 389
+			},
+			"model": "morefunnyitems:block/jf/jf2_jp-text"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 388
+			},
+			"model": "morefunnyitems:block/jf/jf2_white-flag"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 391
+			},
+			"model": "morefunnyitems:block/jf/jf2_kantana-stand"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 392
+			},
+			"model": "morefunnyitems:block/jf/jf2_kantana-stand-2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 393
+			},
+			"model": "morefunnyitems:block/jf/jf2_small-table"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 394
+			},
+			"model": "morefunnyitems:block/jf/jf2_altar-table"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 395
+			},
+			"model": "morefunnyitems:block/jf/jf2_stand-stone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 396
+			},
 			"model": "rpgarmour:item/error"
 		},
 		{
