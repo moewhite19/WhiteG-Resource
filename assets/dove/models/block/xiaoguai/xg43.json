@@ -1,0 +1,7 @@
+{
+	"parent": "./xg47",
+	"textures": {
+		"2": "xiaoguai:block/awning_blue7",
+		"particle": "xiaoguai:block/awning_white"
+	}
+}

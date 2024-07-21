@@ -27,6 +27,7 @@ sakura樱花木以及配套材质来自邦先生
 
 ### dove包
 来自群内：gezi_QAQ
+感谢小红书小乖（小红书号:kiss77oo）的支持
 
 ### tachibana
 来自材质包：Tachibana-Tex-3D
