@@ -497,7 +497,8 @@
 			"scale": [0.36, 0.36, 0.36]
 		},
 		"fixed": {
-			"translation": [0, 31.75, 17.75],
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -48],
 			"scale": [2, 2, 2]
 		}
 	},

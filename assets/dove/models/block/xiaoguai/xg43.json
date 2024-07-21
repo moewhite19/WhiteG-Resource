@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "./xg47",
 	"textures": {
 		"2": "xiaoguai:block/awning_blue7",
