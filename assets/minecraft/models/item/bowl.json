@@ -4873,10 +4873,63 @@
 		    }, 
 		    "model": "dove:block/maoronyizi/white_wooden_sofa_single" 
 		}, 
-
+		{ 
+			"predicate": { 
+				"custom_model_data": 1130 
+			}, 
+			"model": "dove:block/xiaoguai/xg64" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 1131 
+			}, 
+			"model": "dove:block/xiaoguai/xg64a" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 1132 
+			}, 
+			"model": "dove:block/xiaoguai/xg64b" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 1133 
+			}, 
+			"model": "dove:block/xiaoguai/xg1a" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 1134 
+			}, 
+			"model": "dove:block/xiaoguai/xg1b" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 1135 
+			}, 
+			"model": "dove:block/xiaoguai/xg1c" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 1136 
+			}, 
+			"model": "dove:block/xiaoguai/xg62" 
+		}, 
+		{ 
+			"predicate": { 
+				"custom_model_data": 1137 
+			}, 
+			"model": "dove:block/xiaoguai/xg62a" 
+		}, 
 		{
 			"predicate": {	
-				"custom_model_data": 1130
+				"custom_model_data": 1138
+			},
+			"model": "dove:block/xiaoguai/nozuowei"
+		}, 
+		{
+			"predicate": {	
+				"custom_model_data": 1139
 			},
 			"model": "rpgarmour:item/error"
 		}
