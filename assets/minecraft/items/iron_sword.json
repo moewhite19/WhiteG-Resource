@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_sword"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "morefunnyitems:item/tools/shadow/shadow_dagger"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "morefunnyitems:item/tools/earth/earth_dagger"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "rpgarmour:item/error"
+                }
+            }
+        ]
+    }
+}

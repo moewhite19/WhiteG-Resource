@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/snowball"
+        },
+        "entries": [
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "rpgarmour:item/fairball"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "rpgarmour:item/fairball"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "rpgarmour:item/bullet"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "rpgarmour:item/seekerbow_selector"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "rpgarmour:item/error"
+                }
+            }
+        ]
+    }
+}

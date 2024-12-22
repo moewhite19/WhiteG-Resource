@@ -1,0 +1,252 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_false": {
+                "type": "minecraft:special",
+                "base": "minecraft:item/shield",
+                "model": {
+                    "type": "minecraft:shield"
+                }
+            },
+            "on_true": {
+                "type": "minecraft:special",
+                "base": "minecraft:item/shield_blocking",
+                "model": {
+                    "type": "minecraft:shield"
+                }
+            }
+        },
+        "entries": [
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "morefunnyitems:item/tools/nebula/nebula_shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "morefunnyitems:item/tools/nebula/nebula_shield"
+                    }
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "morefunnyitems:item/tools/starcat/starcat_shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "morefunnyitems:item/tools/starcat/starcat_shield"
+                    }
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "morefunnyitems:item/tools/thunder/thunder_shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "morefunnyitems:item/tools/thunder/thunder_shield"
+                    }
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "morefunnyitems:item/tools/holy/holy_shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "morefunnyitems:item/tools/holy/holy_shield"
+                    }
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "morefunnyitems:item/tools/dark/dark_shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "morefunnyitems:item/tools/dark/dark_shield"
+                    }
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "dove:block/xxwq/shield"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "dove:block/xxwq/shield"
+                    }
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "minecraft:condition",
+                    "property": "minecraft:using_item",
+                    "on_false": {
+                        "type": "minecraft:model",
+                        "model": "rpgarmour:item/error"
+                    },
+                    "on_true": {
+                        "type": "minecraft:model",
+                        "model": "rpgarmour:item/error"
+                    }
+                }
+            }
+        ]
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "translation": [
+                10,
+                6,
+                -4
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [
+                0,
+                90,
+                0
+            ],
+            "translation": [
+                10,
+                6,
+                12
+            ],
+            "scale": [
+                1,
+                1,
+                1
+            ]
+        },
+        "firstperson_righthand": {
+            "rotation": [
+                0,
+                180,
+                5
+            ],
+            "translation": [
+                -10,
+                2,
+                -10
+            ],
+            "scale": [
+                1.25,
+                1.25,
+                1.25
+            ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [
+                0,
+                180,
+                5
+            ],
+            "translation": [
+                10,
+                0,
+                -10
+            ],
+            "scale": [
+                1.25,
+                1.25,
+                1.25
+            ]
+        },
+        "gui": {
+            "rotation": [
+                15,
+                -25,
+                -5
+            ],
+            "translation": [
+                2,
+                3,
+                0
+            ],
+            "scale": [
+                0.65,
+                0.65,
+                0.65
+            ]
+        },
+        "fixed": {
+            "rotation": [
+                0,
+                180,
+                0
+            ],
+            "translation": [
+                -4.5,
+                4.5,
+                -5
+            ],
+            "scale": [
+                0.55,
+                0.55,
+                0.55
+            ]
+        },
+        "ground": {
+            "rotation": [
+                0,
+                0,
+                0
+            ],
+            "translation": [
+                2,
+                4,
+                2
+            ],
+            "scale": [
+                0.25,
+                0.25,
+                0.25
+            ]
+        }
+    }
+}
