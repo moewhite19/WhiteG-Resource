@@ -1,0 +1,26 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/stone_axe"
+        },
+        "entries": [
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "morefunnyitems:item/tools/burst_axe"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "rpgarmour:item/error"
+                }
+            }
+        ]
+    }
+}
